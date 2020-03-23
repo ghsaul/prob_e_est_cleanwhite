@@ -233,6 +233,10 @@
   </url>
   
   <url>
+    <loc>/eureca/nomecompletamenterandomico/</loc>
+  </url>
+  
+  <url>
     <loc>/search/placeholder/</loc>
   </url>
   
@@ -242,6 +246,10 @@
   
   <url>
     <loc>/top/books/</loc>
+  </url>
+  
+  <url>
+    <loc>/eureca/</loc>
   </url>
   
   <url>
