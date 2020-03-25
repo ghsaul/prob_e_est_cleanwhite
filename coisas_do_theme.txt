@@ -1,0 +1,36 @@
+* = códigos com pouquíssimas linhas e/ou que não podem ser modificados
+
+layouts/404.htlm = Página de erro 404 página não encontrada
+*layouts/index.html
+
+layouts/_default/baseof.html = Ajusta como o título principal do site (aquele que fica grande no centro do banner superior) e o slogan (o que fica em baixo do título principal) vão se comportar no site
+layouts/_default/section.html = Ajusta a barra lateral direita do site que inclui as features tags e friends, só que não eu acho
+layouts/_default/single.html = Ajusta as configurações dos posts vistos a partir da home page (post header) e o layout da pagina do post (post content) (ele pode editar as featured tags no fim do post) (ele também controla o banner de cada post, se voce olhar no site de exemplo, cada post tem um banner diferente)
+layouts/_default/list.algolia.json = Compõe o sistema de busca do site em javascript
+
+layouts/partials/category.html = 
+layouts/partials/comments.html = 
+layouts/partials/footer.html = 
+layouts/partials/head.html = 
+layouts/partials/header.html = 
+layouts/partials/nav.html = 
+layouts/partials/page_view_counter.html = 
+layouts/partials/pagination.html = 
+layouts/partials/portfolio.html = 
+layouts/partials/post_list.html = 
+layouts/partials/posts.html = 
+layouts/partials/reward.html = 
+layouts/partials/search.html = 
+layouts/partials/sidebar.html = 
+
+layouts/search/list.html = contrói a aba de pesquisa
+
+layouts/shortcodes = essa pasta toda tem arquivos bem complexos 
+
+*layouts/taxonomy/category.html
+*layouts/taxonomy/tag.html
+layouts/taxonomy/terms.html = é parecido com layouts/_default/section.html, é para ajustar os featured tags e friends, mas na prática ele não faz isso
+
+
+
+
