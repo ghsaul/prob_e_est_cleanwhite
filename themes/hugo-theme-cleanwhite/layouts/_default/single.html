@@ -18,8 +18,8 @@
                         {{ end }}
                     </div>
                     <h1>{{ .Title }}</h1>
-                    <h2 class="subheading">{{ .Params.subtitle }}</h2>
-                    <span class="meta">
+                    <h2 class="subheading" >{{ .Params.subtitle }}</h2> <!-- altera a cor do subtitulo do post que aparece dentro do post -->
+                    <span class="meta"> <!-- altera a cor da data ou do autor, se houver -->
                         {{ if .Params.author }} <!-- Se houver o nome do autor do post -->
                         Por <!--Escreva 'Por'-->
                             {{ .Params.author }} <!-- Nome do autor -->
@@ -33,8 +33,8 @@
                         {{ end }} 
 
                         <!-- Don't show "Last Modified on" if update happened on the same day. -->
-                        {{ if (and (not .Lastmod.IsZero) (not (eq (dateFormat "2006-01-02" .Lastmod) (dateFormat "2006-01-02" .Date)))) }}
-                        <br>Last Modified on {{ dateFormat "02/01/2006" .Params.LastMod }}
+                        {{ if (and (not .Lastmod.IsZero) (not (eq (dateFormat "02/01/2006" .Lastmod) (dateFormat "02/01/2006" .Date)))) }}
+                        <br>Last Modified on {{ dateFormat "02/01/2006" .Params.LastMod }} <!--  -->
                         {{ end }}
                     </span>
                 </div>

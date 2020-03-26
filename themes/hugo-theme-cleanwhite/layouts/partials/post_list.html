@@ -2,19 +2,19 @@
 {{ range $index, $element := $.Paginator.Pages }}
 <div class="post-preview">
     <a href="{{ .Permalink }}">
-        <h2 class="post-title">
+        <h2 class="post-title" style="color:#9999CC;"> <!-- altera a cor do titulo do post a partir da homepage -->
             {{ .Title }}
         </h2>
 	{{with .Params.subtitle }}
-        <h3 class="post-subtitle">
+        <h3 class="post-subtitle" style="color:#9999CC;"> <!-- altera a cor do subtitulo do post a partir da homepage -->
             {{ . }}
         </h3>
 	{{ end }}
-        <div class="post-content-preview">
-	{{ with .Description }}
-            {{ . }}
-        {{ else }}
-            {{ .Summary}}
+        <div class="post-content-preview"> <!-- altera a cor da descrisao do post a partir da homepage -->
+	{{ with .Description }} <!-- se tiver uma descricao -->
+            {{ . }} <!-- mostre ela -->
+        {{ else }} <!-- senao -->
+            {{ .Summary}} <!-- mostre o inicio do texto daquele post -->
        {{ end }}
         </div>
     </a>
@@ -25,7 +25,7 @@
         em 
         {{ .Date.Format "02/01/2006" }}
             {{ if .Site.Params.page_view_conter }}
-                {{ partial "page_view_counter.html" . }}
+                {{ partial "page_view_counter.html" . }} <!-- controla a parte do page viewer -->
             {{ end }}
     {{ else }}
         {{ .Date.Format "02/01/2006" }}

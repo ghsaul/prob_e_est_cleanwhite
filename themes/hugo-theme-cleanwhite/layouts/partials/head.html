@@ -12,7 +12,7 @@
     <meta property="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.thumbnail }}" />
     {{ else }}
     <meta property="og:image" content="{{ .Site.BaseURL }}/{{ .Site.Params.header_image }}">
-    <meta property="twitter:image" content="{{ .Site.BaseURL }}/{{ .Site.Params.header_image }}" />
+    <meta property="twitter:image" content="{{ .Site.BaseURL }}/{{ .Site.Params.header_image }}" /> <!-- banner -->
     {{ end }}
 
     {{ if .Params.title }}
@@ -22,7 +22,7 @@
     {{ else }}
     <meta name="title" content="{{ .Site.Params.title }}" />
     <meta property="og:title" content="{{ .Site.Params.title }}" />
-    <meta property="twitter:title" content="{{ .Site.Params.title }}" />
+    <meta property="twitter:title" content="{{ .Site.Params.title }}" /> <!-- titulo -->
     {{ end }}
 
     {{ if .Params.description }}
@@ -43,9 +43,9 @@
     <!-- end ogp -->
 
     <meta name="keyword"  content="{{ .Site.Params.keyword }}">
-    <link rel="shortcut icon" href="{{ "img/prob_header.png" | relURL }}">
+    <link rel="shortcut icon" href="{{ "img/prob_header.png" | relURL }}"> <!-- icone -->
 
-    <title>{{ .Title }}</title>
+    <title>{{ .Title }}</title> <!-- titulo da guia do site -->
 
     <link rel="canonical" href="{{ .URL | relURL }}">
 

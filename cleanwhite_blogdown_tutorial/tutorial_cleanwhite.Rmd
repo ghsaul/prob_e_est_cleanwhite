@@ -1,0 +1,104 @@
+---
+title: "Como criar um site usando o tema Cleanwhite do Hugo"
+author: "Gabriel Holmer Saul"
+date: "26/03/2020"
+output:
+  bookdown::gitbook:
+    split_by: section+number
+    config:
+     toc:
+       collapse: subsection
+       scroll_highlight: yes
+       before: null
+       after: null
+     toolbar:
+       position: fixed
+     edit : null
+     download: []
+     search: yes
+     fontsettings:
+       theme: white
+       family: sans
+       size: 2
+     sharing: no
+site: bookdown::bookdown_site
+---
+
+# Instalação
+
+* Tenha o R instalado
+
+* Tenha o RStudio instalado
+
+* Rode o comando `install.packages("blogdown")` no console do R para instalar o pacote Blogdown
+
+* Rode o comando `blogdown::install_hugo()` no console do R para instalar o Hugo
+
+* Rode o comando `blogdown::update_hugo()` no console do R para atualizar o Hugo, só para garantir que ele estará em sua versão mais recente
+
+# Criando o site
+
+Na aba superior do RStudio, vá em `File -> New Project -> New Directory -> Website using blogdown`.
+
+Em `Directory name` escolha o nome do diretório do seu novo site. Eu usarei o nome "mywebsite" ao longo deste tutorial.
+
+Em `Create project as subdirectory of` escolha em qual pasta vai estar a pasta do projeto que você está criando neste passo.
+
+Na opção `Hugo theme` escreva `zhaohuabing/hugo-theme-cleanwhite` para criar o site com o tema cleanwhite.
+
+Marque as outras opções conforme seu gosto e quando terminar clique em `Create Project`
+
+# Addins do Rstudio
+
+O que eu irei falar neste capítulo é um resumo do capítulo `RStudio IDE` do livro `blogdown: Creating Websites with R Markdown` que pode ser consultado aqui [https://bookdown.org/yihui/blogdown/rstudio-ide.html](https://bookdown.org/yihui/blogdown/rstudio-ide.html) 
+
+Após criar o projeto, o RStudio deve lhe redirecionar automaticamente para a janela do novo projeto. Você pode conferir se ele realmente fez isso olhando o nome do projeto no canto superior direito.
+
+![](F:/Gabriel/Documentos/ufrgs_estatistica/work/monitoria_gabriel_2020/mywebsite_images/projectname.png) 
+
+![](F:/Gabriel/Documentos/ufrgs_estatistica/work/monitoria_gabriel_2020/mywebsite_images/projectname2.png) 
+
+Como o nome que eu dei para o meu projeto foi mywebsite, então sei que estou na janela certa. O RStudio fornece algumas ferramentas que poupam a dor de cabeça de buscar códigos complexos que executem funções importantes do nosso site ao adicionar funcionalidades simples e diretas. Além da que nós acabamos de ver, que cria um novo site sem precisar usar a função `new_site()`, o RStudio têm os Addins, que são formas alternativas e mais simples de usar funções que somente alguns pacotes do R possuem.
+
+![](F:/Gabriel/Documentos/ufrgs_estatistica/work/monitoria_gabriel_2020/mywebsite_images/addins.png) 
+
+Como podemos ver, ao instalarmos o pacote Blogdown, os addins dentro do quadrado vermelho foram adicionados também. Agora vou falar o que alguns desses addins fazem.
+
+## Serve Site
+
+É o primeiro addin que você quer usar após criar o projeto. Ele é o responsável por criar o site de fato a partir de todos os arquivos dentro da pasta. Toda vez que algum arquivo for modificado, o site automaticamente será atualizado. Isso significa que esse comando pode ser usado apenas uma vez
+
+# Pasta principal
+
+Ao abrir a pasta do projeto, que no meu caso se chama mywebsite, ela deve se parecer com isso:
+
+![](F:/Gabriel/Documentos/ufrgs_estatistica/work/monitoria_gabriel_2020/mywebsite_images/mywebsite.png) 
+
+Iremos falar de todos os arquivos e pastas agora
+
+## content
+
+Essa é a pasta onde os posts ficam. No RStudio, é possível criar um novo post utili
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
