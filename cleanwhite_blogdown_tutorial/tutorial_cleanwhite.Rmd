@@ -4,7 +4,7 @@ author: "Gabriel Holmer Saul"
 date: "26/03/2020"
 output:
   bookdown::gitbook:
-    split_by: section+number
+    split_by: chapter+number
     config:
      toc:
        collapse: subsection
@@ -50,31 +50,37 @@ Marque as outras opções conforme seu gosto e quando terminar clique em `Create
 
 # Addins do Rstudio
 
-O que eu irei falar neste capítulo é um resumo do capítulo `RStudio IDE` do livro `blogdown: Creating Websites with R Markdown` que pode ser consultado aqui [https://bookdown.org/yihui/blogdown/rstudio-ide.html](https://bookdown.org/yihui/blogdown/rstudio-ide.html) 
+O que eu irei falar neste capítulo é um resumo do capítulo RStudio IDE do livro blogdown: Creating Websites with R Markdown de Yihui Xie, Amber Thomas e Alison Presmanes Hill que pode ser consultado aqui [https://bookdown.org/yihui/blogdown/rstudio-ide.html](https://bookdown.org/yihui/blogdown/rstudio-ide.html) 
 
 Após criar o projeto, o RStudio deve lhe redirecionar automaticamente para a janela do novo projeto. Você pode conferir se ele realmente fez isso olhando o nome do projeto no canto superior direito.
 
-![](F:/Gabriel/Documentos/ufrgs_estatistica/work/monitoria_gabriel_2020/mywebsite_images/projectname.png) 
+![](F:/Gabriel/Documentos/ufrgs_estatistica/work/monitoria_gabriel_2020/cleanwhite/cleanwhite_blogdown_tutorial/mywebsite_images/projectname.png) 
 
-![](F:/Gabriel/Documentos/ufrgs_estatistica/work/monitoria_gabriel_2020/mywebsite_images/projectname2.png) 
+![](F:/Gabriel/Documentos/ufrgs_estatistica/work/monitoria_gabriel_2020/cleanwhite/cleanwhite_blogdown_tutorial/mywebsite_images/projectname2.png) 
 
-Como o nome que eu dei para o meu projeto foi mywebsite, então sei que estou na janela certa. O RStudio fornece algumas ferramentas que poupam a dor de cabeça de buscar códigos complexos que executem funções importantes do nosso site ao adicionar funcionalidades simples e diretas. Além da que nós acabamos de ver, que cria um novo site sem precisar usar a função `new_site()`, o RStudio têm os Addins, que são formas alternativas e mais simples de usar funções que somente alguns pacotes do R possuem.
+Como o nome que eu dei para o meu projeto foi mywebsite, então sei que estou na janela certa. O RStudio fornece algumas ferramentas que poupam a dor de cabeça de buscar códigos complexos que executem funções importantes do nosso site ao adicionar funcionalidades simples e diretas. Além da que nós acabamos de ver, que cria um novo site sem precisar usar a função `new_site()`, o RStudio têm os Addins, que são formas alternativas e mais simples de usar certas funções que alguns pacotes do R possuem. Ao clicar na aba Addins...
 
-![](F:/Gabriel/Documentos/ufrgs_estatistica/work/monitoria_gabriel_2020/mywebsite_images/addins.png) 
+![](F:/Gabriel/Documentos/ufrgs_estatistica/work/monitoria_gabriel_2020/cleanwhite/cleanwhite_blogdown_tutorial/mywebsite_images/addins0.png) 
 
-Como podemos ver, ao instalarmos o pacote Blogdown, os addins dentro do quadrado vermelho foram adicionados também. Agora vou falar o que alguns desses addins fazem.
+![](F:/Gabriel/Documentos/ufrgs_estatistica/work/monitoria_gabriel_2020/cleanwhite/cleanwhite_blogdown_tutorial/mywebsite_images/addins.png) 
+
+...vemos algumas funções do Blogdown, que podem ser executadas mais facilmente. As funções que veremos precisam ser executadas dentro do seu projeto. Por exemplo, se você tentar usar a função Serve site em outro projeto, ela não vai funcionar. Vamos ver o que alguns Addins fazem:
 
 ## Serve Site
 
-É o primeiro addin que você quer usar após criar o projeto. Ele é o responsável por criar o site de fato a partir de todos os arquivos dentro da pasta. Toda vez que algum arquivo for modificado, o site automaticamente será atualizado. Isso significa que esse comando pode ser usado apenas uma vez
+É a primeira função que você quer usar após criar o projeto. Ela serve o site localmente e continuamente, para que você possa visualizar as alterações no seu site na medida em que você altera os arquivos do projeto. Isso significa que esse comando só precisa ser usado uma vez quando você reabrir o projeto do RStudio. Lembrando que não existe um arquivo que seja o site dentro da pasta do projeto. O site só existe quando ele está em um servidor, seja local (com a função `serve site`) ou na internet.
+
+## New Post
+
+Cria o template do novo post que você deseja escrever. Na prática, um post no blogdown nada mais é do que um arquivo em R Markdown que ficará em uma pasta específica do projeto e que tem um YAML header mais robusto. Ou seja, se você já tem um arquivo Rmd pronto e quer colocá-lo no site, basta usar o comando `new post` para criar o YAML header e deixar o arquivo do post no diretório certo, copiar o corpo do arquivo e colar no post. Assim, caso você já tenha executado a função `serve site`, você verá o seu post sendo incorporado no site.
 
 # Pasta principal
 
 Ao abrir a pasta do projeto, que no meu caso se chama mywebsite, ela deve se parecer com isso:
 
-![](F:/Gabriel/Documentos/ufrgs_estatistica/work/monitoria_gabriel_2020/mywebsite_images/mywebsite.png) 
+![](F:/Gabriel/Documentos/ufrgs_estatistica/work/monitoria_gabriel_2020/cleanwhite/cleanwhite_blogdown_tutorial/mywebsite_images/mywebsite.png) 
 
-Iremos falar de todos os arquivos e pastas agora
+Antes de falar sobre o que é cada coisa, é interessante que você já tenha rodado a função `serve site` para gerar o site pela primeira vez. O tema Cleanwhite do Hugo conta com um site de exemplo, que nos ajuda a enxergar o potencial que esse tema tem. A pasta public, que será explicada adiante, é praticamente vazia se você abrí-la antes de rodar o `serve site`, mas depois de rodar o comando, ela fica com vários arquivos que serão explicados mais adiante.
 
 ## content
 
