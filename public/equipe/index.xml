@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Equipes on Probabilidade e Estatística EAD</title>
+    <link>/equipe/</link>
+    <description>Recent content in Equipes on Probabilidade e Estatística EAD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/equipe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Equipe de professores e monitores da disciplina</title>
+      <link>/equipe/equipe/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/equipe/equipe/</guid>
+      <description>ProfessoresLisiane Priscila Roldão Selau lisianeselau@gmail.com Sala B212 IMEMárcia Helena Barbian mhbarbian@gmail.com Sala B120 IMEMarkus Chagas Stein markus.stein@ufrgs.br Sala B120 IMERodrigo Citton Padilha dos Reis rodrigocpdosreis@gmail.com Sala B215 IMEMonitoresGabriel Holmer Saul github.com/ghsaulMárcia Helena Barbian mhbarbian@gmail.</description>
+    </item>
+    
+  </channel>
+</rss>

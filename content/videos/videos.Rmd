@@ -1,0 +1,24 @@
+---
+title: Vídeos da disciplina
+date: "2020-03-31"
+---
+
+Olá
+
+1º vídeo
+
+<a href="https://www.youtube.com/embed/eFyAyz6Xy6g" frameborder="0" allowfullscreen></a>
+
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+
+2º vídeo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eFyAyz6Xy6g" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eFyAyz6Xy6g" frameborder="0" allowfullscreen></iframe>
+
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eFyAyz6Xy6g" frameborder="0" allowfullscreen></iframe>
+
+fim

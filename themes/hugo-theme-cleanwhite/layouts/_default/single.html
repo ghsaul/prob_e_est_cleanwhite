@@ -10,33 +10,33 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
-                    <div class="tags">
-                        {{ range .Params.tags }}
-                        <a class="tag" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" title="{{ . }}">
-                            {{ . }}
-                        </a>
-                        {{ end }}
-                    </div>
-                    <h1>{{ .Title }}</h1>
-                    <h2 class="subheading" >{{ .Params.subtitle }}</h2> <!-- altera a cor do subtitulo do post que aparece dentro do post -->
-                    <span class="meta"> <!-- altera a cor da data ou do autor, se houver -->
-                        {{ if .Params.author }} <!-- Se houver o nome do autor do post -->
-                        Por <!--Escreva 'Por'-->
-                            {{ .Params.author }} <!-- Nome do autor -->
-                        em <!-- Escreva 'em' -->
-                            {{ .Date.Format "02/01/2006" }} <!-- Formato de data usual brasileiro, o default era Monday, January 2, 2006 -->
-                            {{ if .Site.Params.page_view_conter }} <!-- Se o parametro do config.toml de page viewer for true entao tambem mostre o page viewer -->
-                                {{ partial "page_view_counter.html" . }}
-                            {{ end }}
-                        {{ else }} <!-- Caso o post nao tenha nome, so mostre a data de publicacao -->
-                            {{ .Date.Format "02/01/2006" }}
-                        {{ end }} 
+                <!--     <div class="tags"> -->
+                <!--         {{ range .Params.tags }} -->
+                <!--         <a class="tag" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" title="{{ . }}"> -->
+                <!--             {{ . }} -->
+                <!--         </a> -->
+                <!--         {{ end }} -->
+                <!--     </div> -->
+                <!--     <h1>{{ .Title }}</h1> -->
+                <!--     <h2 class="subheading" >{{ .Params.subtitle }}</h2> <!-- altera a cor do subtitulo do post que aparece dentro do post --> 
+                <!--     <span class="meta"> <!-- altera a cor da data ou do autor, se houver --> 
+                <!--         {{ if .Params.author }} <!-- Se houver o nome do autor do post --> 
+                <!--         Por <!--Escreva 'Por'--> 
+                <!--             {{ .Params.author }} <!-- Nome do autor --> 
+                <!--         em <!-- Escreva 'em' --> 
+                <!--             {{ .Date.Format "02/01/2006" }} <!-- Formato de data usual brasileiro, o default era Monday, January 2, 2006 --> 
+                <!--             {{ if .Site.Params.page_view_conter }} <!-- Se o parametro do config.toml de page viewer for true entao tambem mostre o page viewer --> 
+                <!--                 {{ partial "page_view_counter.html" . }} -->
+                <!--             {{ end }} -->
+                <!--         {{ else }} <!-- Caso o post nao tenha nome, so mostre a data de publicacao --> 
+                <!--             {{ .Date.Format "02/01/2006" }} -->
+                <!--         {{ end }}  -->
 
-                        <!-- Don't show "Last Modified on" if update happened on the same day. -->
-                        {{ if (and (not .Lastmod.IsZero) (not (eq (dateFormat "02/01/2006" .Lastmod) (dateFormat "02/01/2006" .Date)))) }}
-                        <br>Last Modified on {{ dateFormat "02/01/2006" .Params.LastMod }} <!--  -->
-                        {{ end }}
-                    </span>
+                <!--         <!-- Don't show "Last Modified on" if update happened on the same day. --> 
+                <!--         {{ if (and (not .Lastmod.IsZero) (not (eq (dateFormat "02/01/2006" .Lastmod) (dateFormat "02/01/2006" .Date)))) }} -->
+                <!--         <br>Last Modified on {{ dateFormat "02/01/2006" .Params.LastMod }} -->
+                <!--         {{ end }} -->
+                <!--     </span> -->
                 </div>
             </div>
         </div>
@@ -56,29 +56,29 @@
                 col-md-10 col-md-offset-1
                 post-container">
 
-                {{ if not (eq (.Param "showtoc") false) }}
-                <header>
-                    <h2>Índice</h2> <!-- eh tipo o toc do rmarkdown, ele da hiperlinks dos topicos -->
-                </header>
-                {{.TableOfContents}}
-                {{ end }}
+                <!-- {{ if not (eq (.Param "showtoc") false) }} -->
+                <!-- <header> -->
+                <!--     <h2>Índice</h2> <!-- eh tipo o toc do rmarkdown, ele da hiperlinks dos topicos -->
+                <!-- </header> -->
+                <!-- {{.TableOfContents}} -->
+                <!-- {{ end }} -->
                 {{ .Content }}
 
-                {{ if .Site.Params.reward }} <!-- esse negocio de site reward eu achei bem estranho, mas enfim, eu coloquei como false no config.toml para nao dar confusao -->
-                {{ partial "reward.html" . }}
-                {{ end }}
+                <!-- {{ if .Site.Params.reward }} <!-- esse negocio de site reward eu achei bem estranho, mas enfim, eu coloquei como false no config.toml para nao dar confusao -->
+                <!-- {{ partial "reward.html" . }} -->
+                <!-- {{ end }} -->
 
                 <hr>
                 <ul class="pager">
                     {{ if .PrevInSection }}
                     <li class="previous">
                         <a href="{{ .PrevInSection.URL }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title}}">&larr;
-                            {{ .PrevInSection.Title}}</a> <!-- botao de ver o post anterior -->
+                            Post anterior</a> <!-- botao de ver o post anterior -->
                     </li>
                     {{ end }}
                     {{ if .NextInSection }}
                     <li class="next">
-                        <a href="{{ .NextInSection.URL }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title}}">Proximo post &rarr;</a>
+                        <a href="{{ .NextInSection.URL }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title}}">Post seguinte &rarr;</a> <!-- botao de ver o post seguinte -->
                     </li>
                     {{ end }}
                 </ul>

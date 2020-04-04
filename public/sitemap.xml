@@ -3,6 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/equipe/equipe/</loc>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/equipe/</loc>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/livro/livro/</loc>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/livro/</loc>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/slides/</loc>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/videos/</loc>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/videos/videos/</loc>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/blog/</loc>
+    <lastmod>2020-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <lastmod>2020-03-24T00:00:00+00:00</lastmod>
   </url>
@@ -23,23 +73,8 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-03-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2020-03-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
     <lastmod>2020-03-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/blogdown/</loc>
-    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -63,37 +98,27 @@
   </url>
   
   <url>
-    <loc>/categories/equipe/</loc>
-    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/equipe/</loc>
-    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/readme/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2018/05/24/set_up_my_ubuntu_desktop/</loc>
-    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/tips/</loc>
-    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ubuntu/</loc>
-    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/search/placeholder/</loc>
+  </url>
+  
+  <url>
+    <loc>/livro/cpt1/cpt1/</loc>
+  </url>
+  
+  <url>
+    <loc>/extra/</loc>
+  </url>
+  
+  <url>
+    <loc>/extra/extra/</loc>
+  </url>
+  
+  <url>
+    <loc>/listas/</loc>
+  </url>
+  
+  <url>
+    <loc>/listas/listas/</loc>
   </url>
   
   <url>

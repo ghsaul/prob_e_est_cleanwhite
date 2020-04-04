@@ -1,0 +1,20 @@
+---
+title: "Capítulo 1"
+output:
+  bookdown::gitbook:
+    split_by: chapter+number
+---
+
+asdasd
+
+# primeiro
+
+## aiueuhifwhuieuf
+
+# asfoiefiowf
+
+## asioiaosdjioasoi
+
+## aisuhduaisuhd
+
+### irgirghiruhiur

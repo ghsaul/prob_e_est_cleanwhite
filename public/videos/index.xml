@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videos on Probabilidade e Estatística EAD</title>
+    <link>/videos/</link>
+    <description>Recent content in Videos on Probabilidade e Estatística EAD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/videos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vídeos da disciplina</title>
+      <link>/videos/videos/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/videos/videos/</guid>
+      <description>Olá
+1º vídeo
+
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+2º vídeo
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+fim</description>
+    </item>
+    
+  </channel>
+</rss>

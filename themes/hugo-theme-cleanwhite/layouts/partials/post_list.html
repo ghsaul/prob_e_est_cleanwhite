@@ -2,11 +2,11 @@
 {{ range $index, $element := $.Paginator.Pages }}
 <div class="post-preview">
     <a href="{{ .Permalink }}">
-        <h2 class="post-title" style="color:#9999CC;"> <!-- altera a cor do titulo do post a partir da homepage -->
+        <h2 class="post-title"> <!-- altera a cor do titulo do post a partir da homepage -->
             {{ .Title }}
         </h2>
 	{{with .Params.subtitle }}
-        <h3 class="post-subtitle" style="color:#9999CC;"> <!-- altera a cor do subtitulo do post a partir da homepage -->
+        <h3 class="post-subtitle"> <!-- altera a cor do subtitulo do post a partir da homepage -->
             {{ . }}
         </h3>
 	{{ end }}

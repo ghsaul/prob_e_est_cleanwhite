@@ -1,19 +1,21 @@
 ---
 title: Notas pessoais sobre o Blogdown
+subtitle: O que eu descobri sobre ele
+description: Isso aqui é uma descrição e vai aparecer só na home page
 author: Gabriel Holmer Saul
 date: '2020-03-17'
 categories:
-  - Blogdown
+  - Blog
 tags:
   - cool
   - fancy
   - tutorial
-slug: notas-pessoais-sobre-o-blogdown
-description: Isso aqui é uma descrição e vai aparecer só na home page
 image: /post/2020-03-17-notas-pessoais-sobre-o-blogdown_files/wallpaper2.png
+slug: notas-pessoais-sobre-o-blogdown
 ---
 
-.
+# Notas pessoais sobre o Blogdown
+## Por Gabriel Holmer Saul
 
 ```{r libraries, message=FALSE, warning=FALSE, include=FALSE}
 
@@ -54,9 +56,13 @@ new_site(dir="nome_do_diretorio_do_site")
 
 ```
 
+<p align="justify"> asdasdasdasO comando acima cria um site novo com especificações passadas nos argumentos dessa função. Para criar seu primeiro site, basta rodar o comando.O comando acima cria um site novo com especificações passadas nos argumentos dessa função. Para criar seu primeiro site, basta rodar o comando.O comando acima cria um site novo com especificações passadas nos argumentos dessa função. Para criar seu primeiro site, basta rodar o comando.O comando acima cria um site novo com especificações passadas nos argumentos dessa função. Para criar seu primeiro site, basta rodar o comando.O comando acima cria um site novo com especificações passadas nos argumentos dessa função. Para criar seu primeiro site, basta rodar o comando. </p>
+
 O comando acima cria um site novo com especificações passadas nos argumentos dessa função. Para criar seu primeiro site, basta rodar o comando.
 
 O diretorio que irá conter o site precisa não existir ou estar vazio. Se não for especificado o argumento `dir`, o comando tentará criar o site no diretorio atual, que muito provavelmente nao estara vazio. Por isso, use o argumento `dir = "nome_da_pasta_do_site"`, dentro da função.
+
+
 
 ```{r}
 # 
@@ -88,7 +94,7 @@ O diretorio que irá conter o site precisa não existir ou estar vazio. Se não 
 
 ```
 
-![](/post/2020-03-17-notas-pessoais-sobre-o-blogdown_files/Juíz.jpg)
+![](/post/2020-03-17-notas-pessoais-sobre-o-blogdown_files/juiz.jpg)
 
 # 1.3 - RStudio Addins
 
@@ -99,6 +105,7 @@ O RStudio tem alguns Addins ali em cima para ajudar a programar o site em blogdo
 * New Post - Cria um novo post, é bem intuitivo... (teste ele para ver o que acontece!)
 
 * Update Metadata - 
+
 
 * Dá pra criar o projeto do site clicando em `File -> New Project -> New Directory -> Website using blogdown`. Caso isso seja feito, é importante que você vá em `Tools -> Project Options -> Build Tools` e desmarque as opções `Preview site after building` e `Re-knit current preview when supporting files change`.
 
@@ -113,7 +120,7 @@ Esse capítulo não é muito útil, ele fala de algumas micro configurações qu
 * Como deixar o texto justificado no site
 * Como escrever do lado de um plot do ggplot
 
-![](/post/2020-03-17-notas-pessoais-sobre-o-blogdown_files/Juíz.jpg)
+![](/post/2020-03-17-notas-pessoais-sobre-o-blogdown_files/juiz.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eFyAyz6Xy6g" frameborder="0" allowfullscreen></iframe>
 

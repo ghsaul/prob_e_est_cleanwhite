@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Extras on Probabilidade e Estatística EAD</title>
+    <link>/extra/</link>
+    <description>Recent content in Extras on Probabilidade e Estatística EAD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/extra/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Extras</title>
+      <link>/extra/extra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/extra/extra/</guid>
+      <description>Materiais ExtrasOlá, aqui estão alguns materiais extras legaisComputer Age Statistical Inference
+Esse livro aqui é bom por isso isso e aquilo
+Intoduction to Statistical Learning
+Olá, aqui estão alguns links externos legais3Blue1Brown
+Esse canal aqui é bom por isso isso e aquilo
+Curso de Machine Learning do Coursera
+Esse curso também é bem bom por isso isso e aquilo</description>
+    </item>
+    
+  </channel>
+</rss>

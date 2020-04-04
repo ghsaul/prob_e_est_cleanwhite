@@ -12,38 +12,11 @@
     
     
     <item>
-      <title>R</title>
-      <link>/categories/r/</link>
+      <title>Blog</title>
+      <link>/categories/blog/</link>
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blogdown</title>
-      <link>/categories/blogdown/</link>
-      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/blogdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Equipe</title>
-      <link>/categories/equipe/</link>
-      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/equipe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tips</title>
-      <link>/categories/tips/</link>
-      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/tips/</guid>
+      <guid>/categories/blog/</guid>
       <description></description>
     </item>
     

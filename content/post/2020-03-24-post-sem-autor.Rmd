@@ -4,7 +4,7 @@ author: ''
 date: '2020-03-24'
 slug: post-sem-autor
 categories:
-  - R
+  - Blog
 tags:
   - Modeling
 subtitle: ''
