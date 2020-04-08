@@ -98,6 +98,7 @@ body {
 
 p {
   margin: 1.5em 0;
+  font-size: 1px;
 }
 
 a {
@@ -105,6 +106,7 @@ a {
   color: #38312f;
   -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
+  font-size: 1px;
 }
 a:link {
   color: #38312f;

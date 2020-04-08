@@ -17,14 +17,14 @@ showtoc: false
                 </p>
               </td>
               <td style="vertical-align:middle">
-                <span style="font-size:20">
-                  Lisiane Priscila Roldão Selau <br> lisianeselau@gmail.com <br> Sala B212 IME
-                </span>
+                Lisiane Priscila Roldão Selau <br> lisianeselau@gmail.com <br> Sala B212 IME <br> <a href="https://github.com/lisianeselau" target="_blank"> github.com/lisianeselau </a>
               </td>
-              <td><img alt="" src="/equipe_img/marcia.jpg" style="width: 250px; height: 300px;" /></td>
+              <td>
+                <img alt="" src="/equipe_img/marcia.jpg" style="width: 250px; height: 300px;" />
+              </td>
               <td style="vertical-align:middle">
                 <span style="font-size:20">
-                  Márcia Helena Barbian <br> mhbarbian@gmail.com <br> Sala B120 IME
+                  Márcia Helena Barbian <br> mhbarbian@gmail.com <br> Sala B120 IME <br> <a href="https://github.com/marcia-barbian" target="_blank"> github.com/marcia-barbian </a>
                 </span>
               </td>
           </tr>
@@ -32,13 +32,13 @@ showtoc: false
               <td><img alt="" src="/equipe_img/markus.jpg" style="width: 250px; height: 300px;" /></td>
               <td style="vertical-align:middle">
                 <span style="font-size:20">
-                  Markus Chagas Stein <br> markus.stein@ufrgs.br <br> Sala B120 IME
+                  Markus Chagas Stein <br> markus.stein@ufrgs.br <br> Sala B120 IME <br> <a href="https://github.com/marcia-barbian" target="_blank"> github.com/marcia-barbian </a>
                 </span>
               </td>
               <td><img alt="" src="/equipe_img/rodrigo.jpg" style="width: 250px; height: 300px;" /></td>
               <td style="vertical-align:middle">
                 <span style="font-size:20">
-                  Rodrigo Citton Padilha dos Reis <br> rodrigocpdosreis@gmail.com <br> Sala B215 IME
+                  Rodrigo Citton Padilha dos Reis <br> rodrigocpdosreis@gmail.com <br> Sala B215 IME <br> <a href="https://github.com/marcia-barbian" target="_blank"> github.com/marcia-barbian </a>https://github.com/rdosreis
                 </span>
               </td>
           </tr>

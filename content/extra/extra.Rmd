@@ -4,9 +4,7 @@ title: Extras
 
 # Materiais Extras
 
-![](/img/instituto.png)
-
-# Olá, aqui estão alguns materiais extras legais
+## Olá, aqui estão alguns materiais extras legais
 
 [Computer Age Statistical Inference](/extra/material/computer_statistical_inference.pdf)
 
@@ -15,37 +13,23 @@ Esse livro aqui é bom por isso isso e aquilo
 [Intoduction to Statistical Learning](/extra/material/Intoduction to Statistical Learning.pdf)
 
 
-# Olá, aqui estão alguns links externos legais
+## Olá, aqui estão alguns links externos legais
 
 
 <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw" target="_blank">
-  <b>
-    3Blue1Brown
-  </b>
+  3Blue1Brown
 </a>
 
 Esse canal aqui é bom por isso isso e aquilo
 
 <a href="https://www.coursera.org/learn/machine-learning/home/welcome" target="_blank">
-  <span style="color:black">
-    <b>
-      <font size = "4">
-        Curso de Machine Learning do Coursera
-      </font>
-    </b>
-  </span>
+  Curso de Machine Learning do Coursera
 </a>
 
 Esse curso também é bem bom por isso isso e aquilo
 
 <a href="https://learn.datacamp.com/courses/introduction-to-sql" target="_blank">
-  <span style="color:black">
-    <b>
-      <font size = "4">
-        Curso de SQL do datacamp
-      </font>
-    </b>
-  </span>
+  Curso de SQL do datacamp
 </a>
 
 Outro curso

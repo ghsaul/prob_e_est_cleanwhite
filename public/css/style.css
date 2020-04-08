@@ -63,7 +63,7 @@ background-size: 11.1%; /* This is at 6-columns -> just change this # */
 
 body {
   height: 100%;
-  font-size: 100%;
+  font-size: 1%;
   margin: 0;
   padding: 0;
   font-family: "raleway", sans-serif;
@@ -99,6 +99,7 @@ body {
 
 p {
   margin: 1.5em 0;
+  font-size: 1px;
 }
 
 a {
@@ -126,7 +127,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2.625em;
+  font-size: 12.625em;
   /* 42px / 16px */
   line-height: 1.143;
 }
