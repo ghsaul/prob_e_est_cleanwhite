@@ -115,7 +115,6 @@ home = ["HTML", "RSS", "Algolia"]
   title =  "Listas"
   href = "listas/listas/index.html"
   
-  
   [[params.addtional_menus]]
   title =  "Podcast"
   href =  "https://open.spotify.com/show/1oMIHOXsrLFENAeM743g93"

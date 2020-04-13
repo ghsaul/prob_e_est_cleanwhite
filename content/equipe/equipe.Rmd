@@ -1,7 +1,6 @@
 ---
 title: Equipe de professores e monitores da disciplina
 date: "2020-03-31"
-showtoc: false
 ---
 
 ![](/img/instituto.png)
@@ -12,9 +11,7 @@ showtoc: false
       <tbody>
           <tr>
               <td>
-                <p>
-                  <img alt="" src="/equipe_img/lisiane.jpg" style="width: 250px; height: 300px;" />
-                </p>
+                <img alt="" src="/equipe_img/lisiane.jpg" style="width: 250px; height: 300px;" />
               </td>
               <td style="vertical-align:middle">
                 Lisiane Priscila Roldão Selau <br> lisianeselau@gmail.com <br> Sala B212 IME <br> <a href="https://github.com/lisianeselau" target="_blank"> github.com/lisianeselau </a>
@@ -23,23 +20,21 @@ showtoc: false
                 <img alt="" src="/equipe_img/marcia.jpg" style="width: 250px; height: 300px;" />
               </td>
               <td style="vertical-align:middle">
-                <span style="font-size:20">
-                  Márcia Helena Barbian <br> mhbarbian@gmail.com <br> Sala B120 IME <br> <a href="https://github.com/marcia-barbian" target="_blank"> github.com/marcia-barbian </a>
-                </span>
+                Márcia Helena Barbian <br> mhbarbian@gmail.com <br> Sala B120 IME <br> <a href="https://github.com/marcia-barbian" target="_blank"> github.com/marcia-barbian </a>
               </td>
           </tr>
           <tr>
-              <td><img alt="" src="/equipe_img/markus.jpg" style="width: 250px; height: 300px;" /></td>
-              <td style="vertical-align:middle">
-                <span style="font-size:20">
-                  Markus Chagas Stein <br> markus.stein@ufrgs.br <br> Sala B120 IME <br> <a href="https://github.com/marcia-barbian" target="_blank"> github.com/marcia-barbian </a>
-                </span>
+              <td>
+                <img alt="" src="/equipe_img/markus.jpg" style="width: 250px; height: 300px;" />
               </td>
-              <td><img alt="" src="/equipe_img/rodrigo.jpg" style="width: 250px; height: 300px;" /></td>
               <td style="vertical-align:middle">
-                <span style="font-size:20">
-                  Rodrigo Citton Padilha dos Reis <br> rodrigocpdosreis@gmail.com <br> Sala B215 IME <br> <a href="https://github.com/marcia-barbian" target="_blank"> github.com/marcia-barbian </a>https://github.com/rdosreis
-                </span>
+                Markus Chagas Stein <br> markus.stein@ufrgs.br <br> Sala B120 IME <br> <a href="https://github.com/markus-stein" target="_blank"> github.com/markus-stein </a>
+              </td>
+              <td>
+                <img alt="" src="/equipe_img/rodrigo.jpg" style="width: 250px; height: 300px;" />
+              </td>
+              <td style="vertical-align:middle">
+                Rodrigo Citton Padilha dos Reis <br> rodrigocpdosreis@gmail.com <br> Sala B215 IME <br> <a href="https://github.com/rdosreis" target="_blank"> github.com/rdosreis </a>
               </td>
           </tr>
       </tbody>
@@ -53,29 +48,29 @@ showtoc: false
         <tr>
             <td><img alt="" src="/equipe_img/gabriel.jpg" style="width: 250px; height: 300px;" /></td>
             <td style="vertical-align:middle">
-              <span style="font-size:20">
-                Gabriel Holmer Saul <br> <a href="https://github.com/ghsaul">github.com/ghsaul</a>
-              </span>
+              Gabriel Holmer Saul <br> <a href="https://github.com/ghsaul">github.com/ghsaul</a>
             </td>
-            <td><img alt="" src="/equipe_img/marcia.jpg" style="width: 250px; height: 300px;" /></td>
+            <td>
+              <img alt="" src="/equipe_img/marcia.jpg" style="width: 250px; height: 300px;" />
+            </td>
             <td style="vertical-align:middle">
-              <span style="font-size:20">
+              
                 Márcia Helena Barbian <br> mhbarbian@gmail.com <br> Sala B120 IME
-              </span>
+              
             </td>
         </tr>
         <tr>
             <td><img alt="" src="/equipe_img/markus.jpg" style="width: 250px; height: 300px;" /></td>
             <td style="vertical-align:middle">
-              <span style="font-size:20">
+              
                 Markus Chagas Stein <br> markus.stein@ufrgs.br <br> Sala B120 IME
-              </span>
+              
             </td>
             <td><img alt="" src="/equipe_img/rodrigo.jpg" style="width: 250px; height: 300px;" /></td>
             <td style="vertical-align:middle">
-              <span style="font-size:20">
+              
                 Rodrigo Citton Padilha dos Reis <br> rodrigocpdosreis@gmail.com <br> Sala B215 IME
-              </span>
+              
             </td>
         </tr>
     </tbody>

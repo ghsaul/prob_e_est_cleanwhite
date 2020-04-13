@@ -16,7 +16,7 @@ slug: notas-pessoais-sobre-o-blogdown
 
 
 # Notas pessoais sobre o Blogdown
-## Por Gabriel Holmer Saul
+###### Por Gabriel Holmer Saul
 
 ```{r libraries, message=FALSE, warning=FALSE, include=FALSE}
 

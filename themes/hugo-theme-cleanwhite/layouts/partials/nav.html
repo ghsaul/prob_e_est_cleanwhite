@@ -22,7 +22,7 @@
             <div class="navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="{{ "/slides/slides/index.html" | relLangURL }}">Home</a> <!-- home page -->
+                        <a href="{{ "/" | relLangURL }}">Home</a> <!-- home page -->
                     </li>
                     {{ if not .Site.Params.omit_categories }} <!-- menus criados a partir de categorias de posts -->
                         {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
