@@ -24,16 +24,18 @@
                     <li>
                         <a href="{{ "/" | relLangURL }}">Home</a> <!-- home page -->
                     </li>
+
+                    
+		    {{ range .Site.Params.addtional_menus }} <!-- menus adicionais -->
+                        <li><a href="{{.href | relLangURL}}">{{.title}}</a></li>
+                    {{ end }}
+                    
                     {{ if not .Site.Params.omit_categories }} <!-- menus criados a partir de categorias de posts -->
                         {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
                         <li>
                             <a href="{{ "categories/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a>
                         </li>
                         {{ end }}
-                    {{ end }}
-                    
-		    {{ range .Site.Params.addtional_menus }} <!-- menus adicionais -->
-                        <li><a href="{{.href | relLangURL}}">{{.title}}</a></li>
                     {{ end }}
 
                     {{ if .Site.Params.algolia_search }} <!-- Parte de busca -->

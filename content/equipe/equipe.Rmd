@@ -3,35 +3,34 @@ title: Equipe de professores e monitores da disciplina
 date: "2020-03-31"
 ---
 
-![](/img/instituto.png)
-
 # Professores
-<div class="table-responsive">
   <table border="0">
       <tbody>
           <tr>
               <td>
-                <img alt="" src="/equipe_img/lisiane.jpg" style="width: 250px; height: 300px;" />
+                <img alt="" src="/equipe_img/lisiane.jpg" style="width: 270px; height: 300px;" />
               </td>
               <td style="vertical-align:middle">
                 Lisiane Priscila Roldão Selau <br> lisianeselau@gmail.com <br> Sala B212 IME <br> <a href="https://github.com/lisianeselau" target="_blank"> github.com/lisianeselau </a>
               </td>
+              
               <td>
-                <img alt="" src="/equipe_img/marcia.jpg" style="width: 250px; height: 300px;" />
+                <img alt="" src="/equipe_img/marcia.jpg" style="width: 270px; height: 300px;" />
               </td>
               <td style="vertical-align:middle">
                 Márcia Helena Barbian <br> mhbarbian@gmail.com <br> Sala B120 IME <br> <a href="https://github.com/marcia-barbian" target="_blank"> github.com/marcia-barbian </a>
               </td>
+              
           </tr>
           <tr>
               <td>
-                <img alt="" src="/equipe_img/markus.jpg" style="width: 250px; height: 300px;" />
+                <img alt="" src="/equipe_img/markus.jpg" style="width: 270px; height: 300px;" />
               </td>
               <td style="vertical-align:middle">
                 Markus Chagas Stein <br> markus.stein@ufrgs.br <br> Sala B120 IME <br> <a href="https://github.com/markus-stein" target="_blank"> github.com/markus-stein </a>
               </td>
               <td>
-                <img alt="" src="/equipe_img/rodrigo.jpg" style="width: 250px; height: 300px;" />
+                <img alt="" src="/equipe_img/rodrigo.jpg" style="width: 270px; height: 300px;" />
               </td>
               <td style="vertical-align:middle">
                 Rodrigo Citton Padilha dos Reis <br> rodrigocpdosreis@gmail.com <br> Sala B215 IME <br> <a href="https://github.com/rdosreis" target="_blank"> github.com/rdosreis </a>
@@ -39,38 +38,21 @@ date: "2020-03-31"
           </tr>
       </tbody>
   </table>
-</div>
 
 # Monitores
 
 <table>
     <tbody>
         <tr>
-            <td><img alt="" src="/equipe_img/gabriel.jpg" style="width: 250px; height: 300px;" /></td>
+            <td><img alt="" src="/equipe_img/gabriel.jpg" style="width: 270px; height: 300px;" /></td>
             <td style="vertical-align:middle">
               Gabriel Holmer Saul <br> <a href="https://github.com/ghsaul">github.com/ghsaul</a>
             </td>
             <td>
-              <img alt="" src="/equipe_img/marcia.jpg" style="width: 250px; height: 300px;" />
+              <img alt="" src="/equipe_img/thierre.jpg" style="width: 270px; height: 300px;" />
             </td>
             <td style="vertical-align:middle">
-              
-                Márcia Helena Barbian <br> mhbarbian@gmail.com <br> Sala B120 IME
-              
-            </td>
-        </tr>
-        <tr>
-            <td><img alt="" src="/equipe_img/markus.jpg" style="width: 250px; height: 300px;" /></td>
-            <td style="vertical-align:middle">
-              
-                Markus Chagas Stein <br> markus.stein@ufrgs.br <br> Sala B120 IME
-              
-            </td>
-            <td><img alt="" src="/equipe_img/rodrigo.jpg" style="width: 250px; height: 300px;" /></td>
-            <td style="vertical-align:middle">
-              
-                Rodrigo Citton Padilha dos Reis <br> rodrigocpdosreis@gmail.com <br> Sala B215 IME
-              
+                Thierre Francisco Da Conceição <br> thierre.francisco@ufrgs.br
             </td>
         </tr>
     </tbody>

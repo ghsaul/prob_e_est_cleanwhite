@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcasts on Probabilidade e Estatística EAD</title>
+    <link>/podcast/</link>
+    <description>Recent content in Podcasts on Probabilidade e Estatística EAD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/podcast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Podcast</title>
+      <link>/podcast/podcast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/podcast/</guid>
+      <description>Podcast da disciplina!Episódio 1Probabilidade e Estatística: Pra quê serve tudo isso? Parte 1 (com Prof. Márcia Barbian e Prof. Markus Stein)Episódio 2Probabilidade e Estatística: Pra quê serve tudo isso? Parte 2 (com Prof. Lisiane Selau)</description>
+    </item>
+    
+  </channel>
+</rss>

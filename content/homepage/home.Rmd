@@ -2,15 +2,8 @@
 title: Home
 ---
 
-# Olá
 
-## Fazendo teste da home page
+<h1 align="center">
+  BEM VINDO À DISCIPLINA MAT02219 - PROBABILIDADE E ESTATÍSTICA
+</h1>
 
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
-
-# h1
-## h2
-### h3
-#### h4
-##### h5
-###### h6

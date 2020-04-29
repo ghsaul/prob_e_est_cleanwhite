@@ -1,7 +1,7 @@
 @media (min-width:1200px) {
     .post-container,
     .sidebar-container {
-        padding-right: 5%
+        padding-right: 5% 
     }
 }
 
@@ -85,7 +85,6 @@ h6 {
 }
 
 
-
 h4 {
     font-size: 21px /*tamanho da fonte do h4 ('####' no rmarkdown)*/
 }
@@ -138,22 +137,26 @@ img.shadow {
     select {
         -webkit-appearance: none;
         margin-top: 15px;
-        color: #337ab7;
-        border-color: #337ab7;
+        color:  #337ab7; 
+        border-color: #337ab7; 
         padding: 0 .4em;
-        background: #fff
+        background: #000
     }
+    
+
 }
+
+
 
 .table th,
 .table td {
-    border: 1px solid #eee!important
+    border: 0px solid #eee!important /*modificado de 1px para 0px*/
 }
 
 hr.small {
     max-width: 100px;
     margin: 15px auto;
-    border-width: 4px;
+    border-width: 4px; /**/
     border-color: #fff
 }
 
@@ -217,6 +220,8 @@ pre code {
     .post-container ol {
         padding-left: 30px
     }
+    
+
 }
 
 @media screen and (max-width:500px) {
@@ -224,6 +229,8 @@ pre code {
     .post-container ol {
         padding-left: 20px
     }
+
+
 }
 
 .post-container ol ol,
@@ -478,7 +485,7 @@ pre code {
 @media only screen and (min-width:768px) {
     .intro-header .site-heading h1,
     .intro-header .page-heading h1 {
-        font-size: 80px
+        font-size: 80px 
     }
 }
 
@@ -1057,3 +1064,14 @@ body {
 .page-fullscreen footer .copyright a:hover {
     color: #ddd
 }
+
+/*modificacoes com tabelas*/
+
+
+	@media screen and (max-width: 1210px){
+
+		td{ display: block}
+
+	}
+
+	

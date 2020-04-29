@@ -1,9 +1,9 @@
 ---
-title: Vídeos da disciplina
+title: Vídeos
 date: "2020-03-31"
 ---
 
-# Vídeo aulas
+# Videoaulas
 
 ## Área 1
 
@@ -69,28 +69,32 @@ date: "2020-03-31"
 
 ## Área 2
 
-2.1 Var aleatorias discretas e distribuicoes  
+### Variáveis Aleatórias
+
+2.1 Discretas  
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe src="https://drive.google.com/file/d/1UsIXZAsAxGEjjpoRuJDl9g6x3eE4u1fa/preview" allowfullscreen="" class="embed-responsive-item">
   </iframe>
 </div>
 
-2.2 Var aleatorias continuas e distribuicoes  
+2.2 Contínuas 
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe src="https://drive.google.com/file/d/1w-5XppmZQEPKtO_OuNgOJ7E84RauO2n5/preview" allowfullscreen="" class="embed-responsive-item">
   </iframe>
 </div>
 
-2.3 Distribuicoes amostrais  
+### Inferência Estatística
+
+2.3 Distribuições amostrais e TCL 
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe src="https://drive.google.com/file/d/1T8OkO3W_O02Ijp2Yabh8EzoAbIl39BMm/preview" allowfullscreen="" class="embed-responsive-item">
   </iframe>
 </div>
 
-2.4 estimacao  
+2.4 Estimação  
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe src="https://drive.google.com/file/d/1v8V3YhC9q97NBiUcWOW3oUvKlGrP1Ch4/preview" allowfullscreen="" class="embed-responsive-item">
@@ -99,7 +103,7 @@ date: "2020-03-31"
 
 ## Área 3
 
-### Testes de hipótese
+### Testes de hipóteses
 
 3.1 Introdução
 
@@ -122,23 +126,23 @@ date: "2020-03-31"
   </iframe>
 </div>
 
-3.4 Proporções  
+3.4 Proporções
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe src="https://drive.google.com/file/d/1RdxYgzbTmWrE3nrHj66V0SQ7N6pOW_fk/preview" allowfullscreen="" class="embed-responsive-item">
   </iframe>
 </div>
 
+### Regressão Linear
 
-
-3.5 coeficiente de correlacao  
+3.5 Coeficiente de correlação  
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe src="https://drive.google.com/file/d/1WNKGaTtAEZpjQlFh7McOUQfdfIuJ28Xj/preview" allowfullscreen="" class="embed-responsive-item">
   </iframe>
 </div>
 
-3.6 regressao linear simples  
+3.6 Regressao linear simples  
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe src="https://drive.google.com/file/d/1MyKU3cFUeyrrM6uk30JLgtLKzZsl1h-6/preview" allowfullscreen="" class="embed-responsive-item">

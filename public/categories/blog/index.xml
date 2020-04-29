@@ -6,27 +6,18 @@
     <description>Recent content in Blog on Probabilidade e Estatística EAD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Post sem autor</title>
-      <link>/post/post-sem-autor/</link>
-      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      <title>teste</title>
+      <link>/post/teste/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/post-sem-autor/</guid>
+      <guid>/post/teste/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Notas pessoais sobre o Blogdown</title>
-      <link>/post/notas-pessoais-sobre-o-blogdown/</link>
-      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/notas-pessoais-sobre-o-blogdown/</guid>
-      <description>Notas pessoais sobre o BlogdownPor Gabriel Holmer Saul1.1 - Instalação do Blogdown e Hugoinstall.packages(&amp;#39;blogdown&amp;#39;) # Instala o Blogdownblogdown::install_hugo() # Instala o Hugoblogdown::update_hugo() # Pode ser usado para atualizar o Hugo# Talvez seja uma boa ideia rodar esse codigo logo depois de instalar o Hugo, só pra garantir1.2 - Criando o sitenew_site(dir=&amp;quot;nome_do_diretorio_do_site&amp;quot;)asdasdasdasO comando acima cria um site novo com especificações passadas nos argumentos dessa função.</description>
     </item>
     
   </channel>

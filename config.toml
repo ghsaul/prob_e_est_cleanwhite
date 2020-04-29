@@ -81,23 +81,6 @@ home = ["HTML", "RSS", "Algolia"]
   #xing          = "https://www.xing.com/profile/yourxingid"
   #git           = "full profile url for git user"
   
-  [[params.friend_link]]
-  title = "Linda的博客"
-  href =  "https://zhaozhihan.com"
-
-  [[params.bookmark_link]]
-  title =  "Martin Fowler"
-  href =  "https://martinfowler.com"
-  [[params.bookmark_link]]
-  title = "ServiceMesher"
-  href =  "http://www.servicemesher.com"
-  [[params.bookmark_link]]
-  title =  "Pxhere"
-  href = "https://pxhere.com"
-  [[params.bookmark_link]]
-  title = "unsplash"
-  href = "https://unsplash.com"
-  
   [[params.addtional_menus]]
   title =  "Livro"
   href = "livro/livro/index.html"
@@ -116,16 +99,20 @@ home = ["HTML", "RSS", "Algolia"]
   href = "listas/listas/index.html"
   
   [[params.addtional_menus]]
-  title =  "Podcast"
-  href =  "https://open.spotify.com/show/1oMIHOXsrLFENAeM743g93"
+  title =  "Materiais Extras"
+  href = "extra/extra/index.html"
   
   [[params.addtional_menus]] # addtional menus podem ser usados para construir referencias para links externos
   title =  "Equipe"
   href =  "equipe/equipe/index.html"
   
   [[params.addtional_menus]]
-  title =  "Materiais Extras"
-  href = "extra/extra/index.html"
+  title =  "Probcast"
+  href =  "probcast/probcast/index.html"
+  
+
+  
+
   
   
   

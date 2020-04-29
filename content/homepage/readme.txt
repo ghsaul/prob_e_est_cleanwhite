@@ -8,7 +8,10 @@ Para alterar a homepage do site, siga os passos abaixo:
 4 - vá em themes\hugo-theme-cleanwhite\layouts\partials e abra o arquivo homepage.html
 5 - OBS importante: esse arquivo não existe originalmente no tema cleanwhite do Hugo, ele foi criado por mim (Gabriel) para criar uma homepage personalizada diferente da homepage default do tema, o que significa que se você começar um projeto do zero com esse tema, o arquivo não estará lá
 6 - aproximadamente na linha 22 do homepage.html deve haver alguns comentários escrito AQUI VAI O CODIGO HTML DO POST e os códigos html vão até outro blocos de comentário com AQUI ACABA O POST
-7 - entre esses dois comentários, apague o que havia antes e cole o código html de home.html
+7 - entre esses dois comentários, apague o que havia antes e cole o código html de home.html, removendo o código --- antes
+														 title: Home
+														 ---
+
 
 Assim, você trabalha no arquivo Rmd do jeito usual, o site gera uma versão html do Rmd, colando no arquivo homepage.html você efetivamente atualiza a homepage do site
 

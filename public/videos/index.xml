@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Vídeos da disciplina</title>
+      <title>Vídeos</title>
       <link>/videos/videos/</link>
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/videos/videos/</guid>
-      <description>Vídeo aulasÁrea 11.1 Introdução
+      <description>VideoaulasÁrea 11.1 Introdução
 
 Estatística Descritiva1.2 Distribuições de frequência
 
@@ -32,9 +32,11 @@
 1.7 Probabilidade condicional, independência e teorema de Bayes
 
 Vídeo pré prova
-Área 22.1 Var aleatorias discretas e distribuicoes
+Área 2Variáveis Aleatórias2.1 Discretas
 
-2.2 Var aleatorias continuas e distribuicoes</description>
+2.2 Contínuas
+
+Inferência Estatística2.</description>
     </item>
     
   </channel>
