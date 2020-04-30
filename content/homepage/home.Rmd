@@ -2,8 +2,23 @@
 title: Home
 ---
 
+<h2 align="center">
+  BEM VINDO AO SITE DA DISCIPLINA MAT02219 - PROBABILIDADE E ESTATÍSTICA EAD!
+</h2>
 
-<h1 align="center">
-  BEM VINDO À DISCIPLINA MAT02219 - PROBABILIDADE E ESTATÍSTICA
-</h1>
+<p>
+    <img src="home_img/todos_logo.png" class="center"/>
+</p>
 
+### O que é esta disciplina?
+
+A disciplina de Probabilidade e Estatística EAD da UFRGS é uma disciplina do Departamento de Estatística que visa ensinar aos seus alunos os conceitos básicos
+
+
+### Para quem é esta disciplina?
+
+### Como funciona esta disciplina?
+
+### Por que aprender probabilidade e estatística?
+
+### 
