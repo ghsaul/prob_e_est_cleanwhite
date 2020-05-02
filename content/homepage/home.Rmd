@@ -2,13 +2,15 @@
 title: Home
 ---
 
-<h2 align="center">
+<h2 align="center" class="home">
   BEM VINDO(A) AO SITE DA DISCIPLINA MAT02219 - PROBABILIDADE E ESTATÍSTICA EAD!
 </h2>
 
 <p>
     <img src="home_img/todos_logo.png" class="center"/>
 </p>
+
+Este site foi desenvolvido pela equipe de Probabilidade e Estatística EAD da UFRGS com o objetivo de reunir os principais materiais de apoio da disciplina, bem como materiais extras que corroboram com o aprendizado adicional [Vídeos](/videos/videos/index.html)
 
 ### O que é esta disciplina?
 
@@ -18,14 +20,16 @@ A cadeira de Probabilidade e Estatística EAD da UFRGS é uma disciplina ministr
 
 Mais de 20 cursos da UFRGS têm Probabilidade e Estatística como 
 
-### Como funciona este site?
+
+
+<a href="http://www.statpop.com.br/2014/06/como-estatisticos-encontraram-o-voo-447.html" target="_blank">
+  <figure>
+    <img src="home_img/af447.png">
+    <figcaption align="center">
+      Estatísticos foram capazes de encontrar a caixa preta do avião em menos de um mês de pesquisa.
+    </figcaption>
+  </figure>
+</a>
 
 
 
-### Para quem é esta disciplina?
-
-
-
-
-
-### 

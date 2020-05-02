@@ -63,7 +63,7 @@
 body {
     font-family: -apple-system, "Helvetica Neue", Arial, "PingFang SC", "Hiragino Sans GB", STHeiti, "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
     line-height: 1.7; /*espacamento das linhas do texto dos posts*/
-    font-size: 20px; /*tamanho da fonte do texto dos posts*/
+    font-size: 26px; /*tamanho da fonte do texto dos posts*/
     color: #404040; /*cor da fonte do texto dos posts*/
     overflow-x: hidden
 }
@@ -349,7 +349,7 @@ pre code {
         border-bottom: 1px solid transparent
     }
     .navbar-custom body {
-        font-size: 20px
+        font-size: 20px 
     }
     .navbar-custom .navbar-brand {
         color: #fff;
@@ -361,8 +361,9 @@ pre code {
         color: rgba(255, 255, 255, .8)
     }
     .navbar-custom .nav li a {
-        color: #fff;
-        padding: 20px
+        color: #333; /*#fff ->#777*/
+        padding: 20px;
+        font-size: 20px; /*aumenta o tamanho da fonte dos menus do topo sem alterar a visualizacao mobile*/
     }
     .navbar-custom .nav li a:hover,
     .navbar-custom .nav li a:focus {
@@ -1070,8 +1071,28 @@ body {
 
 	@media screen and (max-width: 1210px){
 
-		td{ display: block}
-
+		td {
+		    display: block;
+		}
+		
+	}
+	
+	@media screen and (min-width: 1210px){
+	    tbody.equipe {
+		    font-size: 20px; /*texto menor faz as imagens da equipe ficarem menos alteradas*/
+		}
 	}
 
-	
+/*modificacoes com o h2*/
+
+
+@media screen and (min-width: 1000px) {
+  h1.titulo {
+    font-size: 50px;
+  }
+  
+  h2.home {
+    font-size: 65px;
+  }
+}
+

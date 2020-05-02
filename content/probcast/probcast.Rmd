@@ -2,7 +2,7 @@
 title: Probcast
 ---
 
-<h1> 
+<h1 class="titulo"> 
   Podcast de Probabilidade e Estatística!
 </h1>
 

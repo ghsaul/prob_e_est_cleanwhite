@@ -3,7 +3,9 @@ title: Vídeos
 date: "2020-03-31"
 ---
 
-# Videoaulas
+<h1 class="titulo"> 
+  Videoaulas
+</h1>
 
 ## Área 1
 

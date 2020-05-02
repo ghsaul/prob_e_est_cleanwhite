@@ -2,7 +2,9 @@
 title: Extras
 ---
 
-# Materiais Extras
+<h1 class="titulo">
+  Materiais Extras
+</h1>
 
 ## Tabelas
 
