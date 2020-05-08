@@ -1,4 +1,4 @@
-baseurl = "https://zhaohuabing.com"
+baseurl = ""
 title = "Probabilidade e Estatística EAD"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
@@ -14,13 +14,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/wallpaper_oficial.png"
+  header_image = "https://www.ufrgs.br/probabilidade-estatistica/img/wallpaper_oficial.png"
   SEOTitle = "UFRGS"
   description = "descricao"
   keyword = "keyword"
   #slogan = ""
-  image_404 = "img/sumiu.jpg"
-  title_404 = "A página que você buscou não foi encontrada"
+  image_404 = "https://www.ufrgs.br/probabilidade-estatistica/img/sumiu.jpg"
+  title_404 = "Página não encontrada"
   omit_categories = false
 
   # leancloud storage for page view counter

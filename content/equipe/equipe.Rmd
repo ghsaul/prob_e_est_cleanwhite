@@ -98,7 +98,20 @@ title: Equipe
     <tbody class="equipe"> 
         <tr>
             <td>
-              <img alt="" src="/equipe_img/marlize2.jpg" style="width: 250px; height: 300px;" />
+              <img alt="" src="/equipe_img/juliana.jpg" style="width: 250px; height: 300px;" />
+            </td>
+            <td style="vertical-align:middle">
+              Juliana Sena de Souza <br>
+              julianass.estatistica@gmail.com <br>
+              <a href="http://lattes.cnpq.br/9702936016840399" target="_blank">
+                Currículo Lattes
+              </a> <br>
+              <a href="https://github.com/ssjuliana" target="_blank">
+                github.com/ssjuliana
+              </a>
+            </td>
+            <td>
+              <img alt="" src="/equipe_img/marlize.jpg" style="width: 250px; height: 300px;" />
             </td>
             <td style="vertical-align:middle">
               Marlize Ramos Batista <br>
@@ -106,6 +119,8 @@ title: Equipe
                 github.com/lizerb
               </a>
             </td>
+        </tr>
+        <tr>
             <td>
               <img alt="" src="/equipe_img/priscila.jpg" style="width: 250px; height: 300px;" />
             </td>
@@ -114,7 +129,7 @@ title: Equipe
               <a href="http://lattes.cnpq.br/9396256436083330" target="_blank">
                 Currículo Lattes
               </a>
-            </td>
+            </td>        
         </tr>
     </tbody>
 </table>

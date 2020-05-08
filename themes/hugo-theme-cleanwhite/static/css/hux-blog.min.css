@@ -69,7 +69,8 @@ body {
 }
 
 p {
-    margin: 30px 0 /*margem entre os paragrafos do texto dos posts*/
+    margin: 30px 0; /*margem entre os paragrafos do texto dos posts*/
+    align: justify;
 }
 
 h1,
@@ -361,9 +362,9 @@ pre code {
         color: rgba(255, 255, 255, .8)
     }
     .navbar-custom .nav li a {
-        color: #333; /*#fff ->#777*/
+        color: #fff; /*#fff ->#777*/
         padding: 20px;
-        font-size: 20px; /*aumenta o tamanho da fonte dos menus do topo sem alterar a visualizacao mobile*/
+        font-size: 16px; /*aumenta o tamanho da fonte dos menus do topo sem alterar a visualizacao mobile*/
     }
     .navbar-custom .nav li a:hover,
     .navbar-custom .nav li a:focus {
@@ -427,7 +428,7 @@ pre code {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    margin-bottom: 0
+    margin-bottom: 20 /*0 -> 20*/
 }
 
 @media only screen and (min-width:768px) {
@@ -439,7 +440,7 @@ pre code {
 .intro-header .site-heading,
 .intro-header .post-heading,
 .intro-header .page-heading {
-    padding: 85px 0 55px;
+    padding: 85px 0 55px; 
     color: #fff
 }
 
@@ -452,12 +453,12 @@ pre code {
 }
 
 .intro-header .site-heading {
-    padding: 95px 0 70px
+    padding: 95px 0 70px /*muda a altura do banner quando a tela eh pequena; 95px 0 70px -> */
 }
 
 @media only screen and (min-width:768px) {
     .intro-header .site-heading {
-        padding: 150px 0
+        padding:  230px 0/*muda a altura do banner quando a tela eh grande; 150px 0 -> 230px 0*/
     }
 }
 

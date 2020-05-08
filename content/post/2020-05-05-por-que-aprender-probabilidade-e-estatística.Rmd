@@ -1,0 +1,22 @@
+---
+title: Por que aprender Probabilidade e Estatística
+date: '2020-05-06'
+categories:
+  - Blog
+description: 'Onde houver dados, lá estará a Estatística!'
+---
+
+# Por que aprender probabilidade e estatística?
+
+Mais de 20 cursos da UFRGS têm Probabilidade e Estatística como 
+
+
+
+<a href="http://www.statpop.com.br/2014/06/como-estatisticos-encontraram-o-voo-447.html" target="_blank">
+  <figure>
+    ![](/post/2020-05-05-por-que-aprender-probabilidade-e-estatística_files/af447.png)
+    <figcaption align="center">
+      Estatísticos foram capazes de encontrar a caixa preta do avião em menos de um mês de pesquisa.
+    </figcaption>
+  </figure>
+</a>

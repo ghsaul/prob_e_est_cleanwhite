@@ -2,34 +2,24 @@
 title: Home
 ---
 
-<h2 align="center" class="home">
+<h1 align="center">
   BEM VINDO(A) AO SITE DA DISCIPLINA MAT02219 - PROBABILIDADE E ESTATÍSTICA EAD!
-</h2>
+</h1>
 
-<p>
-    <img src="home_img/todos_logo.png" class="center"/>
-</p>
 
-Este site foi desenvolvido pela equipe de Probabilidade e Estatística EAD da UFRGS com o objetivo de reunir os principais materiais de apoio da disciplina, bem como materiais extras que corroboram com o aprendizado adicional [Vídeos](/videos/videos/index.html)
+Este site foi desenvolvido pela equipe de Probabilidade e Estatística EAD da UFRGS com o objetivo de reunir os principais materiais de apoio da disciplina, bem como materiais extras que corroboram com o aprendizado adicional.
 
-### O que é esta disciplina?
+Os materiais básicos podem ser acessados nas abas [Livro](https://www.ufrgs.br/probabilidade-estatistica/livro/livro/index.html),
+[Slides](https://www.ufrgs.br/probabilidade-estatistica/slides/slides/index.html),
+[Vídeos](https://www.ufrgs.br/probabilidade-estatistica/videos/videos/index.html) e 
+[Listas](https://www.ufrgs.br/probabilidade-estatistica/listas/listas/index.html).
 
-A cadeira de Probabilidade e Estatística EAD da UFRGS é uma disciplina ministrada pelo Departamento de Estatística que visa ensinar aos seus alunos os conceitos básicos
+Na aba [Materiais Extras](https://www.ufrgs.br/probabilidade-estatistica/extra/extra/index.html) você pode acessar tabelas, apostilas, vídeos e aplicações web com conteúdo complementar.
 
-### Por que aprender probabilidade e estatística?
-
-Mais de 20 cursos da UFRGS têm Probabilidade e Estatística como 
+Na aba [Probcast](https://www.ufrgs.br/probabilidade-estatistica/probcast/probcast/index.html) é onde estão disponíveis os podcasts da disciplina
 
 
 
-<a href="http://www.statpop.com.br/2014/06/como-estatisticos-encontraram-o-voo-447.html" target="_blank">
-  <figure>
-    <img src="home_img/af447.png">
-    <figcaption align="center">
-      Estatísticos foram capazes de encontrar a caixa preta do avião em menos de um mês de pesquisa.
-    </figcaption>
-  </figure>
-</a>
 
 
 

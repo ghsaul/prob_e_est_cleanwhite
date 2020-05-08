@@ -6,21 +6,20 @@
     <description>Recent content on Probabilidade e Estatística EAD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Livro da disciplina</title>
-      <link>/livro/livro/</link>
-      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      <title>Por que aprender Probabilidade e Estatística</title>
+      <link>/post/2020-05-05-por-que-aprender-probabilidade-e-estat%C3%ADstica/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/livro/livro/</guid>
-      <description>Livro da disciplinaCapítulo 1
-[Capítulo 1](/livro/cpt1/1-primeiro.html)
---[Capítulo 1](/livro/cpt1/1-primeiro.html)
---Capítulo 2</description>
+      <guid>/post/2020-05-05-por-que-aprender-probabilidade-e-estat%C3%ADstica/</guid>
+      <description>Por que aprender probabilidade e estatística?Mais de 20 cursos da UFRGS têm Probabilidade e Estatística como
+Estatísticos foram capazes de encontrar a caixa preta do avião em menos de um mês de pesquisa.
+</description>
     </item>
     
     <item>
@@ -106,8 +105,9 @@ Nesta aplicação é possível exercitar os conceitos de representação gráfic
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/homepage/home/</guid>
-      <description>BEM VINDO(A) AO SITE DA DISCIPLINA MAT02219 - PROBABILIDADE E ESTATÍSTICA EAD!Este site foi desenvolvido pela equipe de Probabilidade e Estatística EAD da UFRGS com o objetivo de reunir os principais materiais de apoio da disciplina, bem como materiais extras que corroboram com o aprendizado adicional Vídeos
-O que é esta disciplina?A cadeira de Probabilidade e Estatística EAD da UFRGS é uma disciplina ministrada pelo Departamento de Estatística que visa ensinar aos seus alunos os conceitos básicos</description>
+      <description>BEM VINDO(A) AO SITE DA DISCIPLINA MAT02219 - PROBABILIDADE E ESTATÍSTICA EAD!Este site foi desenvolvido pela equipe de Probabilidade e Estatística EAD da UFRGS com o objetivo de reunir os principais materiais de apoio da disciplina, bem como materiais extras que corroboram com o aprendizado adicional.
+Os materiais básicos podem ser acessados nas abas Livro,Slides,Vídeos eListas.
+Na aba Materiais Extras você pode acessar tabelas, apostilas, vídeos e aplicações web com conteúdo complementar.</description>
     </item>
     
     <item>
@@ -130,6 +130,22 @@ Lista 3.2
 Lista 3.3 e 3.4
 Lista 3.5 e 3.6
 </description>
+    </item>
+    
+    <item>
+      <title>Livro da disciplina</title>
+      <link>/livro/livro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/livro/livro/</guid>
+      <description>Livro da disciplinaCapítulo 1 - Introdução aos Bancos de Dados
+Capítulo 2 - Probabilidade
+Capítulo 3 - Distribuições de Variáveis Aleatórias
+Capítulo 4 - Fundamentos para Inferência
+Capítulo 5 - Inferência para dados numéricos
+Capítulo 6 - Inferência para dados categóricos
+Capítulo 7 - Introdução à Regressão Linear
+Capítulo 8 - Regressão Múltipla e Logística</description>
     </item>
     
     <item>

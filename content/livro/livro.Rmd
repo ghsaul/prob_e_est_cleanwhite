@@ -1,19 +1,28 @@
 ---
 title: Livro da disciplina
-date: "2020-03-31"
 ---
 
 <h1 class="titulo">
   Livro da disciplina
 </h1>
 
-<b>[Capítulo 1](/livro/cpt1/1-primeiro.html)</b>
+<b>[Capítulo 1 - Introdução aos Bancos de Dados](/livro/cpt1/ch1_intro.html)</b>
 
-<!-- <p><b><font size="15" color:"#000000">[Capítulo 1](/livro/cpt1/1-primeiro.html)</font></b></p> -->
+<b>[Capítulo 2 - Probabilidade](/livro/cpt2/ch2_prob.html)</b>
 
-<!-- <p><b><font size="7" color="#00ff00">[Capítulo 1](/livro/cpt1/1-primeiro.html)</font></b></p> -->
+<b>[Capítulo 3 - Distribuições de Variáveis Aleatórias](/livro/cpt3/ch3_distribuicoes.html)</b>
 
-<b>[Capítulo 2](/livro/cpt2/_book/ch1_intro.html)</b>
+<b>[Capítulo 4 - Fundamentos para Inferência](/livro/cpt4/ch4_fund_inf.html)</b>
+
+<b>[Capítulo 5 - Inferência para dados numéricos](/livro/cpt5/ch5_inf_num.html)</b>
+
+<b>[Capítulo 6 - Inferência para dados categóricos](/livro/cpt6/ch6_inf_cat.html)</b>
+
+<b>[Capítulo 7 - Introdução à Regressão Linear](/livro/cpt7/ch7_reg_simples.html)</b>
+
+<b>[Capítulo 8 - Regressão Múltipla e Logística](/livro/cpt8/ch8_reg_mult_log.html)</b>
+
+
 
 
  
