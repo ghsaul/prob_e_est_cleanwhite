@@ -30,7 +30,7 @@ date: "2020-03-31"
 
 [2.2 Variáveis Aleatórias Contínuas](https://www.ufrgs.br/probabilidade-estatistica/slides/slides_2/2-2_Var aleatorias continuas e distribuicoes.pdf)
 
-[2.3 Distribuições Amostrais](https://www.ufrgs.br/probabilidade-estatistica/slides/slides_2/2-3_Distribuicoes amostrais.pdf)
+[2.3 Distribuições Amostrais e TCL](https://www.ufrgs.br/probabilidade-estatistica/slides/slides_2/2-3_Distribuicoes amostrais.pdf)
 
 [2.4 Tabelas de Frequência](https://www.ufrgs.br/probabilidade-estatistica/slides/slides_2/2-4_Estimacao.pdf)
 
