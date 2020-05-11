@@ -3,100 +3,92 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/blog/</loc>
-    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2020-05-05-por-que-aprender-probabilidade-e-estat%C3%ADstica/</loc>
-    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/</loc>
+    <loc>https://www.ufrgs.br/probabilidade-estatistica/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/slides/</loc>
+    <loc>https://www.ufrgs.br/probabilidade-estatistica/slides/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/videos/</loc>
+    <loc>https://www.ufrgs.br/probabilidade-estatistica/slides/slides/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/videos/videos/</loc>
+    <loc>https://www.ufrgs.br/probabilidade-estatistica/videos/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/equipe/equipe/</loc>
+    <loc>https://www.ufrgs.br/probabilidade-estatistica/videos/videos/</loc>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/equipe/</loc>
+    <loc>https://www.ufrgs.br/probabilidade-estatistica/categories/</loc>
   </url>
   
   <url>
-    <loc>/extra/</loc>
+    <loc>https://www.ufrgs.br/probabilidade-estatistica/equipe/equipe/</loc>
   </url>
   
   <url>
-    <loc>/extra/extra/</loc>
+    <loc>https://www.ufrgs.br/probabilidade-estatistica/equipe/</loc>
   </url>
   
   <url>
-    <loc>/homepage/home/</loc>
+    <loc>https://www.ufrgs.br/probabilidade-estatistica/extra/</loc>
   </url>
   
   <url>
-    <loc>/homepage/</loc>
+    <loc>https://www.ufrgs.br/probabilidade-estatistica/extra/extra/</loc>
   </url>
   
   <url>
-    <loc>/listas/</loc>
+    <loc>https://www.ufrgs.br/probabilidade-estatistica/homepage/home/</loc>
   </url>
   
   <url>
-    <loc>/listas/listas/</loc>
+    <loc>https://www.ufrgs.br/probabilidade-estatistica/homepage/</loc>
   </url>
   
   <url>
-    <loc>/livro/livro/</loc>
+    <loc>https://www.ufrgs.br/probabilidade-estatistica/listas/</loc>
   </url>
   
   <url>
-    <loc>/livro/</loc>
+    <loc>https://www.ufrgs.br/probabilidade-estatistica/listas/listas/</loc>
   </url>
   
   <url>
-    <loc>/probcast/probcast/</loc>
+    <loc>https://www.ufrgs.br/probabilidade-estatistica/livro/livro/</loc>
   </url>
   
   <url>
-    <loc>/probcast/</loc>
+    <loc>https://www.ufrgs.br/probabilidade-estatistica/livro/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://www.ufrgs.br/probabilidade-estatistica/probcast/probcast/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ufrgs.br/probabilidade-estatistica/probcast/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ufrgs.br/probabilidade-estatistica/rexams/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ufrgs.br/probabilidade-estatistica/rexams/rexams/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ufrgs.br/probabilidade-estatistica/tags/</loc>
   </url>
   
 </urlset>

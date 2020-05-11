@@ -9,42 +9,42 @@ date: "2020-03-31"
 
 ## Área 1
 
-[1.1 Introdução](/slides/slides_1/1-1_Introducao.pdf)
+[1.1 Introdução](https://www.ufrgs.br/probabilidade-estatistica/slides/slides_1/1-1_Introducao.pdf)
 
-[1.2 Tabela de Frequências](/slides/slides_1/1-2_Descritiva_distribuicoes de freq.pdf)
+[1.2 Tabela de Frequências](https://www.ufrgs.br/probabilidade-estatistica/slides/slides_1/1-2_Descritiva_distribuicoes de freq.pdf)
 
-[1.3 Representações Gráficas](/slides/slides_1/1-3_Representacoes graficas.pdf)
+[1.3 Representações Gráficas](https://www.ufrgs.br/probabilidade-estatistica/slides/slides_1/1-3_Representacoes graficas.pdf)
 
-[1.4 Medidas Descritivas](/slides/slides_1/1-4_Descritiva_medidas descritivas.pdf)
+[1.4 Medidas Descritivas](https://www.ufrgs.br/probabilidade-estatistica/slides/slides_1/1-4_Descritiva_medidas descritivas.pdf)
 
-[1.5 Análise Exploratória dos Dados](/slides/slides_1/1-5_Descritiva_analise exploratoria.pdf)
+[1.5 Análise Exploratória dos Dados](https://www.ufrgs.br/probabilidade-estatistica/slides/slides_1/1-5_Descritiva_analise exploratoria.pdf)
 
-[1.6 Introdução à Probabilidade](/slides/slides_1/1-6_Probabilidade_introducao e teoremas.pdf)
+[1.6 Introdução à Probabilidade](https://www.ufrgs.br/probabilidade-estatistica/slides/slides_1/1-6_Probabilidade_introducao e teoremas.pdf)
 
-[1.7 Probabilidade Condicional, Independência e Teorema de Bayes](/slides/slides_1/1-7_Probabilidade_condicional e bayes.pdf)
+[1.7 Probabilidade Condicional, Independência e Teorema de Bayes](https://www.ufrgs.br/probabilidade-estatistica/slides/slides_1/1-7_Probabilidade_condicional e bayes.pdf)
 
 
 ## Área 2
 
-[2.1 Variáveis Aleatórias Discretas](/slides/slides_2/2-1_Var aleatorias discretas e distribuicoes.pdf)
+[2.1 Variáveis Aleatórias Discretas](https://www.ufrgs.br/probabilidade-estatistica/slides/slides_2/2-1_Var aleatorias discretas e distribuicoes.pdf)
 
-[2.2 Variáveis Aleatórias Contínuas](/slides/slides_2/2-2_Var aleatorias continuas e distribuicoes.pdf)
+[2.2 Variáveis Aleatórias Contínuas](https://www.ufrgs.br/probabilidade-estatistica/slides/slides_2/2-2_Var aleatorias continuas e distribuicoes.pdf)
 
-[2.3 Distribuições Amostrais](/slides/slides_2/2-3_Distribuicoes amostrais.pdf)
+[2.3 Distribuições Amostrais](https://www.ufrgs.br/probabilidade-estatistica/slides/slides_2/2-3_Distribuicoes amostrais.pdf)
 
-[2.4 Tabelas de Frequência](/slides/slides_2/2-4_Estimacao.pdf)
+[2.4 Tabelas de Frequência](https://www.ufrgs.br/probabilidade-estatistica/slides/slides_2/2-4_Estimacao.pdf)
 
 ## Área 3
 
-[3.1 Inferência Estatística - Testes de Hipóteses](/slides/slides_3/3-1_Testes de Hipoteses_Introducao.pdf)
+[3.1 Inferência Estatística - Testes de Hipóteses](https://www.ufrgs.br/probabilidade-estatistica/slides/slides_3/3-1_Testes de Hipoteses_Introducao.pdf)
 
-[3.2 Testes de Hipóteses - Média](/slides/slides_3/3-2_Testes de Hipoteses_Medias.pdf)
+[3.2 Testes de Hipóteses - Média](https://www.ufrgs.br/probabilidade-estatistica/slides/slides_3/3-2_Testes de Hipoteses_Medias.pdf)
 
-[3.3 Testes de Hipóteses - Variâncias](/slides/slides_3/3-3_Testes de Hipoteses_Variancias.pdf)
+[3.3 Testes de Hipóteses - Variâncias](https://www.ufrgs.br/probabilidade-estatistica/slides/slides_3/3-3_Testes de Hipoteses_Variancias.pdf)
 
-[3.4 Testes de Hipóteses - Proporções](/slides/slides_3/3-4_Testes de Hipoteses_Proporcoes.pdf)
+[3.4 Testes de Hipóteses - Proporções](https://www.ufrgs.br/probabilidade-estatistica/slides/slides_3/3-4_Testes de Hipoteses_Proporcoes.pdf)
 
-[3.5 Coeficiente de Correlação](/slides/slides_3/3-5_Coeficiente de Correlacao.pdf)
+[3.5 Coeficiente de Correlação](https://www.ufrgs.br/probabilidade-estatistica/slides/slides_3/3-5_Coeficiente de Correlacao.pdf)
 
-[3.6 Regressão Linear Simples](/slides/slides_3/3-6_Regressao Linear Simples.pdf)
+[3.6 Regressão Linear Simples](https://www.ufrgs.br/probabilidade-estatistica/slides/slides_3/3-6_Regressao Linear Simples.pdf)
 

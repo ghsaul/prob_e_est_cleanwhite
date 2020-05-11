@@ -448,17 +448,17 @@ pre code {
     .intro-header .site-heading,
     .intro-header .post-heading,
     .intro-header .page-heading {
-        padding: 150px 0
+        padding: 270px 0 /*muda a altura do banner quando a tela eh grande para as outras abas; 150px 0 -> 270px 0 */
     }
 }
 
 .intro-header .site-heading {
-    padding: 95px 0 70px /*muda a altura do banner quando a tela eh pequena; 95px 0 70px -> */
+    padding: 95px 0 70px /*muda a altura do banner quando a tela eh pequena;*/
 }
 
 @media only screen and (min-width:768px) {
     .intro-header .site-heading {
-        padding:  230px 0/*muda a altura do banner quando a tela eh grande; 150px 0 -> 230px 0*/
+        padding:  270px 0/*muda a altura do banner quando a tela eh grande para a home page; 150px 0 -> 270px 0*/
     }
 }
 

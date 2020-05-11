@@ -6,21 +6,21 @@ title: Livro da disciplina
   Livro da disciplina
 </h1>
 
-<b>[Capítulo 1 - Introdução aos Bancos de Dados](/livro/cpt1/ch1_intro.html)</b>
+<b>[Capítulo 1 - Introdução](https://www.ufrgs.br/probabilidade-estatistica/livro/cpt1/ch1_intro.html)</b>
 
-<b>[Capítulo 2 - Probabilidade](/livro/cpt2/ch2_prob.html)</b>
+<b>[Capítulo 2 - Probabilidade](https://www.ufrgs.br/probabilidade-estatistica/livro/cpt2/ch2_prob.html)</b>
 
-<b>[Capítulo 3 - Distribuições de Variáveis Aleatórias](/livro/cpt3/ch3_distribuicoes.html)</b>
+<b>[Capítulo 3 - Distribuições de Variáveis Aleatórias](https://www.ufrgs.br/probabilidade-estatistica/livro/cpt3/ch3_distribuicoes.html)</b>
 
-<b>[Capítulo 4 - Fundamentos para Inferência](/livro/cpt4/ch4_fund_inf.html)</b>
+<b>[Capítulo 4 - Fundamentos para Inferência](https://www.ufrgs.br/probabilidade-estatistica/livro/cpt4/ch4_fund_inf.html)</b>
 
-<b>[Capítulo 5 - Inferência para dados numéricos](/livro/cpt5/ch5_inf_num.html)</b>
+<b>[Capítulo 5 - Inferência para dados numéricos](https://www.ufrgs.br/probabilidade-estatistica/livro/cpt5/ch5_inf_num.html)</b>
 
-<b>[Capítulo 6 - Inferência para dados categóricos](/livro/cpt6/ch6_inf_cat.html)</b>
+<b>[Capítulo 6 - Inferência para dados categóricos](https://www.ufrgs.br/probabilidade-estatistica/livro/cpt6/ch6_inf_cat.html)</b>
 
-<b>[Capítulo 7 - Introdução à Regressão Linear](/livro/cpt7/ch7_reg_simples.html)</b>
+<b>[Capítulo 7 - Introdução à Regressão Linear](https://www.ufrgs.br/probabilidade-estatistica/livro/cpt7/ch7_reg_simples.html)</b>
 
-<b>[Capítulo 8 - Regressão Múltipla e Logística](/livro/cpt8/ch8_reg_mult_log.html)</b>
+<b>[Capítulo 8 - Regressão Múltipla e Logística](https://www.ufrgs.br/probabilidade-estatistica/livro/cpt8/ch8_reg_mult_log.html)</b>
 
 
 

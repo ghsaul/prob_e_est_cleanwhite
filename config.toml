@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://www.ufrgs.br/probabilidade-estatistica/"
 title = "Probabilidade e Estatística EAD"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
@@ -16,8 +16,8 @@ home = ["HTML", "RSS", "Algolia"]
 [params]
   header_image = "https://www.ufrgs.br/probabilidade-estatistica/img/wallpaper_oficial.png"
   SEOTitle = "UFRGS"
-  description = "descricao"
-  keyword = "keyword"
+  description = ""
+  keyword = ""
   #slogan = ""
   image_404 = "https://www.ufrgs.br/probabilidade-estatistica/img/sumiu.jpg"
   title_404 = "Página não encontrada"
@@ -83,34 +83,36 @@ home = ["HTML", "RSS", "Algolia"]
   
   [[params.addtional_menus]]
   title =  "Livro"
-  href = "livro/livro/index.html"
+  href = "https://www.ufrgs.br/probabilidade-estatistica/livro/livro/index.html"
   #href =  "ch1_intro/_book/ch1_intro.html"
   
   [[params.addtional_menus]]
   title =  "Slides"
-  href = "slides/slides/index.html"
+  href = "https://www.ufrgs.br/probabilidade-estatistica/slides/slides/index.html"
   
   [[params.addtional_menus]]
   title =  "Vídeos"
-  href = "videos/videos/index.html"
+  href = "https://www.ufrgs.br/probabilidade-estatistica/videos/videos/index.html"
 
   [[params.addtional_menus]]
   title =  "Listas"
-  href = "listas/listas/index.html"
+  href = "https://www.ufrgs.br/probabilidade-estatistica/listas/listas/index.html"
   
   [[params.addtional_menus]]
   title =  "Materiais Extras"
-  href = "extra/extra/index.html"
+  href = "https://www.ufrgs.br/probabilidade-estatistica/extra/extra/index.html"
   
   [[params.addtional_menus]] # addtional menus podem ser usados para construir referencias para links externos
   title =  "Equipe"
-  href =  "equipe/equipe/index.html"
+  href =  "https://www.ufrgs.br/probabilidade-estatistica/equipe/equipe/index.html"
   
-  [[params.addtional_menus]]
-  title =  "Probcast"
-  href =  "probcast/probcast/index.html"
+#  [[params.addtional_menus]]
+#  title =  "Probcast"
+#  href =  "https://www.ufrgs.br/probabilidade-estatistica/probcast/probcast/index.html"
   
-
+#  [[params.addtional_menus]]
+#  title =  "Rexams"
+#  href =  "https://www.ufrgs.br/probabilidade-estatistica/rexams/rexams/index.html"
   
 
   

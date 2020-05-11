@@ -1,26 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Probabilidade e Estatística EAD</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Probabilidade e Estatística EAD</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Por que aprender Probabilidade e Estatística</title>
-      <link>/post/2020-05-05-por-que-aprender-probabilidade-e-estat%C3%ADstica/</link>
-      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-05-05-por-que-aprender-probabilidade-e-estat%C3%ADstica/</guid>
-      <description>Por que aprender probabilidade e estatística?Mais de 20 cursos da UFRGS têm Probabilidade e Estatística como
-Estatísticos foram capazes de encontrar a caixa preta do avião em menos de um mês de pesquisa.
-</description>
-    </item>
-    
-  </channel>
-</rss>

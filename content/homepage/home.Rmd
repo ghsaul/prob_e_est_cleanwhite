@@ -6,7 +6,6 @@ title: Home
   BEM VINDO(A) AO SITE DA DISCIPLINA MAT02219 - PROBABILIDADE E ESTATÍSTICA EAD!
 </h1>
 
-
 Este site foi desenvolvido pela equipe de Probabilidade e Estatística EAD da UFRGS com o objetivo de reunir os principais materiais de apoio da disciplina, bem como materiais extras que corroboram com o aprendizado adicional.
 
 Os materiais básicos podem ser acessados nas abas [Livro](https://www.ufrgs.br/probabilidade-estatistica/livro/livro/index.html),
@@ -16,8 +15,7 @@ Os materiais básicos podem ser acessados nas abas [Livro](https://www.ufrgs.br/
 
 Na aba [Materiais Extras](https://www.ufrgs.br/probabilidade-estatistica/extra/extra/index.html) você pode acessar tabelas, apostilas, vídeos e aplicações web com conteúdo complementar.
 
-Na aba [Probcast](https://www.ufrgs.br/probabilidade-estatistica/probcast/probcast/index.html) é onde estão disponíveis os podcasts da disciplina
-
+Bons estudos para todos!
 
 
 

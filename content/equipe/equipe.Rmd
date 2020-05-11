@@ -7,7 +7,7 @@ title: Equipe
       <tbody class="equipe">
           <tr>
               <td>
-                <img alt="" src="/equipe_img/lisiane.jpg" style="width: 250px; height: 300px;" />
+                <img alt="" src="https://www.ufrgs.br/probabilidade-estatistica/equipe_img/lisiane.jpg" style="width: 250px; height: 300px;" />
               </td>
               <td style="vertical-align:middle">
                 Lisiane Priscila Roldão Selau <br>
@@ -18,7 +18,7 @@ title: Equipe
                 </a>
               </td>
               <td>
-                <img alt="" src="/equipe_img/marcia.jpg" style="width: 250px; height: 300px;" />
+                <img alt="" src="https://www.ufrgs.br/probabilidade-estatistica/equipe_img/marcia.jpg" style="width: 250px; height: 300px;" />
               </td>
               <td style="vertical-align:middle">
                 Márcia Helena Barbian <br>
@@ -31,7 +31,7 @@ title: Equipe
           </tr>
           <tr>
               <td>
-                <img alt="" src="/equipe_img/markus.jpg" style="width: 250px; height: 300px;" />
+                <img alt="" src="https://www.ufrgs.br/probabilidade-estatistica/equipe_img/markus.jpg" style="width: 250px; height: 300px;" />
               </td>
               <td style="vertical-align:middle">
                 Markus Chagas Stein <br>
@@ -42,7 +42,7 @@ title: Equipe
                 </a>
               </td>
               <td>
-                <img alt="" src="/equipe_img/rodrigo.jpg" style="width: 250px; height: 300px;" />
+                <img alt="" src="https://www.ufrgs.br/probabilidade-estatistica/equipe_img/rodrigo.jpg" style="width: 250px; height: 300px;" />
               </td>
               <td style="vertical-align:middle">
                 Rodrigo Citton Padilha dos Reis <br>
@@ -62,7 +62,7 @@ title: Equipe
     <tbody class="equipe"> 
         <tr>
             <td>
-              <img alt="" src="/equipe_img/gabriel.jpg" style="width: 250px; height: 300px;" />
+              <img alt="" src="https://www.ufrgs.br/probabilidade-estatistica/equipe_img/gabriel.jpg" style="width: 250px; height: 300px;" />
             </td>
             <td style="vertical-align:middle">
               Gabriel Holmer Saul <br>
@@ -71,18 +71,18 @@ title: Equipe
               </a>
             </td>
             <td>
-              <img alt="" src="/equipe_img/henrique.jpg" style="width: 250px; height: 300px;" />
+              <img alt="" src="https://www.ufrgs.br/probabilidade-estatistica/equipe_img/henrique.jpg" style="width: 250px; height: 300px;" />
             </td>
             <td style="vertical-align:middle">
                 Henrique Saraiva <br>
-                <a href="https://www.youtube.com/channel/UCCo5fq-1LJOGzDkBGTCqH7Q?" target="_blank">
+                <a href="https://www.youtube.com/channel/UCCo5fq-1LJOGzDkBGTCqH7Q" target="_blank">
                   Canal do youtube
                 </a>
             </td>
         </tr>
         <tr>
             <td>
-              <img alt="" src="/equipe_img/thierre.jpg" style="width: 250px; height: 300px;" />
+              <img alt="" src="https://www.ufrgs.br/probabilidade-estatistica/equipe_img/thierre.jpg" style="width: 250px; height: 300px;" />
             </td>
             <td style="vertical-align:middle">
                 Thierre Francisco Da Conceição <br>
@@ -98,7 +98,7 @@ title: Equipe
     <tbody class="equipe"> 
         <tr>
             <td>
-              <img alt="" src="/equipe_img/juliana.jpg" style="width: 250px; height: 300px;" />
+              <img alt="" src="https://www.ufrgs.br/probabilidade-estatistica/equipe_img/juliana.jpg" style="width: 250px; height: 300px;" />
             </td>
             <td style="vertical-align:middle">
               Juliana Sena de Souza <br>
@@ -111,7 +111,7 @@ title: Equipe
               </a>
             </td>
             <td>
-              <img alt="" src="/equipe_img/marlize.jpg" style="width: 250px; height: 300px;" />
+              <img alt="" src="https://www.ufrgs.br/probabilidade-estatistica/equipe_img/marlize.jpg" style="width: 250px; height: 300px;" />
             </td>
             <td style="vertical-align:middle">
               Marlize Ramos Batista <br>
@@ -122,7 +122,7 @@ title: Equipe
         </tr>
         <tr>
             <td>
-              <img alt="" src="/equipe_img/priscila.jpg" style="width: 250px; height: 300px;" />
+              <img alt="" src="https://www.ufrgs.br/probabilidade-estatistica/equipe_img/priscila.jpg" style="width: 250px; height: 300px;" />
             </td>
             <td style="vertical-align:middle">
               Priscilla Gnewuch <br>

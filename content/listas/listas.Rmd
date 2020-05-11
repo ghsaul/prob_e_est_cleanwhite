@@ -8,35 +8,35 @@ title: Listas
 
 ## Área 1
 
-[Lista 1.1](/listas/listas_1/lista1.1.pdf)
+[Lista 1.1 - Introdução](https://www.ufrgs.br/probabilidade-estatistica/listas/listas_1/lista1.1.pdf)
 
-[Lista 1.2 e 1.3](/listas/listas_1/lista1.2-1.3.pdf)
+[Lista 1.2 e 1.3 - Distribuições de frequência e Representações gráficas](https://www.ufrgs.br/probabilidade-estatistica/listas/listas_1/lista1.2-1.3.pdf)
 
-[Lista 1.4 e 1.5](/listas/listas_1/lista1.4-1.5.pdf)
+[Lista 1.4 e 1.5 - Medidas descritivas e Análise exploratória](https://www.ufrgs.br/probabilidade-estatistica/listas/listas_1/lista1.4-1.5.pdf)
 
-[Lista 1.6](/listas/listas_1/lista1.6.pdf)
+[Lista 1.6 - Introdução à probabilidade e teoremas](https://www.ufrgs.br/probabilidade-estatistica/listas/listas_1/lista1.6.pdf)
 
-[Lista 1.7](/listas/listas_1/lista1.7.pdf)
+[Lista 1.7 - Probabilidade condicional e teorema de Bayes](https://www.ufrgs.br/probabilidade-estatistica/listas/listas_1/lista1.7.pdf)
 
 ## Área 2
 
-[Lista 2.1](/listas/listas_2/lista2.1.pdf)
+[Lista 2.1 - Variáveis aleatórias discretas](https://www.ufrgs.br/probabilidade-estatistica/listas/listas_2/lista2.1.pdf)
 
-[Lista 2.2](/listas/listas_2/lista2.2.pdf)
+[Lista 2.2 - Variáveis aleatórias contínuas](https://www.ufrgs.br/probabilidade-estatistica/listas/listas_2/lista2.2.pdf)
 
-[Lista 2.3](/listas/listas_2/lista2.3.pdf)
+[Lista 2.3 - Distribuições amostrais](https://www.ufrgs.br/probabilidade-estatistica/listas/listas_2/lista2.3.pdf)
 
-[Lista 2.4](/listas/listas_2/lista2.4.pdf)
+[Lista 2.4 - Estimação](https://www.ufrgs.br/probabilidade-estatistica/listas/listas_2/lista2.4.pdf)
 
 ## Área 3
 
-[Lista 3.1](/listas/listas_3/lista3.1.pdf)
+[Lista 3.1 - Testes de hipóteses introdução](https://www.ufrgs.br/probabilidade-estatistica/listas/listas_3/lista3.1.pdf)
 
-[Lista 3.2](/listas/listas_3/lista3.2.pdf)
+[Lista 3.2 - Testes de hipóteses médias](https://www.ufrgs.br/probabilidade-estatistica/listas/listas_3/lista3.2.pdf)
 
-[Lista 3.3 e 3.4](/listas/listas_3/lista3.3-3.4.pdf)
+[Lista 3.3 e 3.4 - Testes de hipóteses variâncias e proporções](https://www.ufrgs.br/probabilidade-estatistica/listas/listas_3/lista3.3-3.4.pdf)
 
-[Lista 3.5 e 3.6](/listas/listas_3/lista3.5-3.6.pdf)
+[Lista 3.5 e 3.6 - Coeficiente de correlação e Regressão linear simples](https://www.ufrgs.br/probabilidade-estatistica/listas/listas_3/lista3.5-3.6.pdf)
 
 
 

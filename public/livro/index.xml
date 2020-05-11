@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Livros on Probabilidade e Estatística EAD</title>
-    <link>/livro/</link>
+    <link>https://www.ufrgs.br/probabilidade-estatistica/livro/</link>
     <description>Recent content in Livros on Probabilidade e Estatística EAD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/livro/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.ufrgs.br/probabilidade-estatistica/livro/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Livro da disciplina</title>
-      <link>/livro/livro/</link>
+      <link>https://www.ufrgs.br/probabilidade-estatistica/livro/livro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/livro/livro/</guid>
-      <description>Livro da disciplinaCapítulo 1 - Introdução aos Bancos de Dados
+      <guid>https://www.ufrgs.br/probabilidade-estatistica/livro/livro/</guid>
+      <description>Livro da disciplinaCapítulo 1 - Introdução
 Capítulo 2 - Probabilidade
 Capítulo 3 - Distribuições de Variáveis Aleatórias
 Capítulo 4 - Fundamentos para Inferência

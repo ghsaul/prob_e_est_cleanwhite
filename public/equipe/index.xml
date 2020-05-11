@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Equipes on Probabilidade e Estatística EAD</title>
-    <link>/equipe/</link>
+    <link>https://www.ufrgs.br/probabilidade-estatistica/equipe/</link>
     <description>Recent content in Equipes on Probabilidade e Estatística EAD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/equipe/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.ufrgs.br/probabilidade-estatistica/equipe/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Equipe</title>
-      <link>/equipe/equipe/</link>
+      <link>https://www.ufrgs.br/probabilidade-estatistica/equipe/equipe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/equipe/equipe/</guid>
+      <guid>https://www.ufrgs.br/probabilidade-estatistica/equipe/equipe/</guid>
       <description>ProfessoresLisiane Priscila Roldão Selau lisianeselau@gmail.com Sala B212 IME github.com/lisianeselauMárcia Helena Barbian mhbarbian@gmail.com Sala B120 IME github.com/marcia-barbianMarkus Chagas Stein markus.stein@ufrgs.br Sala B120 IME github.com/markus-steinRodrigo Citton Padilha dos Reis rodrigocpdosreis@gmail.com Sala B215 IME github.com/rdosreisMonitoresGabriel Holmer Saul github.com/ghsaulHenrique Saraiva Canal do youtubeThierre Francisco Da Conceição thierre.</description>
     </item>
     

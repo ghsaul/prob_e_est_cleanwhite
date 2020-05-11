@@ -2,23 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Probcasts on Probabilidade e Estatística EAD</title>
-    <link>/probcast/</link>
+    <link>https://www.ufrgs.br/probabilidade-estatistica/probcast/</link>
     <description>Recent content in Probcasts on Probabilidade e Estatística EAD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/probcast/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.ufrgs.br/probabilidade-estatistica/probcast/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Probcast</title>
-      <link>/probcast/probcast/</link>
+      <link>https://www.ufrgs.br/probabilidade-estatistica/probcast/probcast/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/probcast/probcast/</guid>
-      <description>Podcast de Probabilidade e Estatística!Episódio 1Probabilidade e Estatística: Pra quê serve tudo isso? Parte 1 (com Prof. Márcia Barbian e Prof. Markus Stein)Clique aqui para ouvir o episódio 1
-Episódio 2Probabilidade e Estatística: Pra quê serve tudo isso? Parte 2 (com Prof. Lisiane Selau)Clique aqui para ouvir o episódio 2
-</description>
+      <guid>https://www.ufrgs.br/probabilidade-estatistica/probcast/probcast/</guid>
+      <description>Podcast de Probabilidade e Estatística!## Episódio 1Probabilidade e Estatística: Pra quê serve tudo isso? Parte 1 (com Prof. Márcia Barbian e Prof. Markus Stein)Clique aqui para ouvir o episódio 1## Episódio 2Probabilidade e Estatística: Pra quê serve tudo isso? Parte 2 (com Prof. Lisiane Selau)Clique aqui para ouvir o episódio 2## Episódio 3O Dicionário da Probabilidade e Estatística: os termos fundamentais para acompanhar o semestre &#34;</description>
     </item>
     
   </channel>

@@ -2,32 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Probabilidade e Estatística EAD</title>
-    <link>/</link>
+    <link>https://www.ufrgs.br/probabilidade-estatistica/</link>
     <description>Recent content on Probabilidade e Estatística EAD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.ufrgs.br/probabilidade-estatistica/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Por que aprender Probabilidade e Estatística</title>
-      <link>/post/2020-05-05-por-que-aprender-probabilidade-e-estat%C3%ADstica/</link>
-      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-05-05-por-que-aprender-probabilidade-e-estat%C3%ADstica/</guid>
-      <description>Por que aprender probabilidade e estatística?Mais de 20 cursos da UFRGS têm Probabilidade e Estatística como
-Estatísticos foram capazes de encontrar a caixa preta do avião em menos de um mês de pesquisa.
-</description>
-    </item>
     
     <item>
       <title>Slides da disciplina</title>
-      <link>/slides/slides/</link>
+      <link>https://www.ufrgs.br/probabilidade-estatistica/slides/slides/</link>
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/slides/slides/</guid>
+      <guid>https://www.ufrgs.br/probabilidade-estatistica/slides/slides/</guid>
       <description>SlidesÁrea 11.1 Introdução
 1.2 Tabela de Frequências
 1.3 Representações Gráficas
@@ -46,10 +35,10 @@
     
     <item>
       <title>Vídeos</title>
-      <link>/videos/videos/</link>
+      <link>https://www.ufrgs.br/probabilidade-estatistica/videos/videos/</link>
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/videos/videos/</guid>
+      <guid>https://www.ufrgs.br/probabilidade-estatistica/videos/videos/</guid>
       <description>VideoaulasÁrea 11.1 Introdução
 
 Estatística Descritiva1.2 Distribuições de frequência
@@ -74,19 +63,19 @@
     
     <item>
       <title>Equipe</title>
-      <link>/equipe/equipe/</link>
+      <link>https://www.ufrgs.br/probabilidade-estatistica/equipe/equipe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/equipe/equipe/</guid>
+      <guid>https://www.ufrgs.br/probabilidade-estatistica/equipe/equipe/</guid>
       <description>ProfessoresLisiane Priscila Roldão Selau lisianeselau@gmail.com Sala B212 IME github.com/lisianeselauMárcia Helena Barbian mhbarbian@gmail.com Sala B120 IME github.com/marcia-barbianMarkus Chagas Stein markus.stein@ufrgs.br Sala B120 IME github.com/markus-steinRodrigo Citton Padilha dos Reis rodrigocpdosreis@gmail.com Sala B215 IME github.com/rdosreisMonitoresGabriel Holmer Saul github.com/ghsaulHenrique Saraiva Canal do youtubeThierre Francisco Da Conceição thierre.</description>
     </item>
     
     <item>
       <title>Extras</title>
-      <link>/extra/extra/</link>
+      <link>https://www.ufrgs.br/probabilidade-estatistica/extra/extra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/extra/extra/</guid>
+      <guid>https://www.ufrgs.br/probabilidade-estatistica/extra/extra/</guid>
       <description>Materiais ExtrasTabelasResumo de Teste de Hipóteses
 Tabelas das distribuições Z, T, Qui-Quadrado e F
 ApostilasLivro de Estatística Básica
@@ -95,16 +84,16 @@ Apostila de Regressão Linear Simples
 Khanacademy academy
 Canal da Suzi Samá, professora da FURG
 Resolução do exercício 16 - Lista 1.4 e 1.5
-Aplicações WEBGráficos e Medidas Descritivas
-Nesta aplicação é possível exercitar os conceitos de representação gráfica e de medidas descritivas, vistos nas aulas:1.</description>
+Canal do monitor Henrique Saraiva
+Aplicações WEBGráficos e Medidas Descritivas</description>
     </item>
     
     <item>
       <title>Home</title>
-      <link>/homepage/home/</link>
+      <link>https://www.ufrgs.br/probabilidade-estatistica/homepage/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/homepage/home/</guid>
+      <guid>https://www.ufrgs.br/probabilidade-estatistica/homepage/home/</guid>
       <description>BEM VINDO(A) AO SITE DA DISCIPLINA MAT02219 - PROBABILIDADE E ESTATÍSTICA EAD!Este site foi desenvolvido pela equipe de Probabilidade e Estatística EAD da UFRGS com o objetivo de reunir os principais materiais de apoio da disciplina, bem como materiais extras que corroboram com o aprendizado adicional.
 Os materiais básicos podem ser acessados nas abas Livro,Slides,Vídeos eListas.
 Na aba Materiais Extras você pode acessar tabelas, apostilas, vídeos e aplicações web com conteúdo complementar.</description>
@@ -112,33 +101,28 @@ Na aba Materiais Extras você pode acessar tabelas, apostilas, vídeos e aplica�
     
     <item>
       <title>Listas</title>
-      <link>/listas/listas/</link>
+      <link>https://www.ufrgs.br/probabilidade-estatistica/listas/listas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/listas/listas/</guid>
-      <description>Listas de exercícioÁrea 1Lista 1.1
-Lista 1.2 e 1.3
-Lista 1.4 e 1.5
-Lista 1.6
-Lista 1.7
-Área 2Lista 2.1
-Lista 2.2
-Lista 2.3
-Lista 2.4
-Área 3Lista 3.1
-Lista 3.2
-Lista 3.3 e 3.4
-Lista 3.5 e 3.6
-</description>
+      <guid>https://www.ufrgs.br/probabilidade-estatistica/listas/listas/</guid>
+      <description>Listas de exercícioÁrea 1Lista 1.1 - Introdução
+Lista 1.2 e 1.3 - Distribuições de frequência e Representações gráficas
+Lista 1.4 e 1.5 - Medidas descritivas e Análise exploratória
+Lista 1.6 - Introdução à probabilidade e teoremas
+Lista 1.7 - Probabilidade condicional e teorema de Bayes
+Área 2Lista 2.1 - Variáveis aleatórias discretas
+Lista 2.2 - Variáveis aleatórias contínuas
+Lista 2.3 - Distribuições amostrais
+Lista 2.</description>
     </item>
     
     <item>
       <title>Livro da disciplina</title>
-      <link>/livro/livro/</link>
+      <link>https://www.ufrgs.br/probabilidade-estatistica/livro/livro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/livro/livro/</guid>
-      <description>Livro da disciplinaCapítulo 1 - Introdução aos Bancos de Dados
+      <guid>https://www.ufrgs.br/probabilidade-estatistica/livro/livro/</guid>
+      <description>Livro da disciplinaCapítulo 1 - Introdução
 Capítulo 2 - Probabilidade
 Capítulo 3 - Distribuições de Variáveis Aleatórias
 Capítulo 4 - Fundamentos para Inferência
@@ -150,13 +134,20 @@ Capítulo 8 - Regressão Múltipla e Logística</description>
     
     <item>
       <title>Probcast</title>
-      <link>/probcast/probcast/</link>
+      <link>https://www.ufrgs.br/probabilidade-estatistica/probcast/probcast/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/probcast/probcast/</guid>
-      <description>Podcast de Probabilidade e Estatística!Episódio 1Probabilidade e Estatística: Pra quê serve tudo isso? Parte 1 (com Prof. Márcia Barbian e Prof. Markus Stein)Clique aqui para ouvir o episódio 1
-Episódio 2Probabilidade e Estatística: Pra quê serve tudo isso? Parte 2 (com Prof. Lisiane Selau)Clique aqui para ouvir o episódio 2
-</description>
+      <guid>https://www.ufrgs.br/probabilidade-estatistica/probcast/probcast/</guid>
+      <description>Podcast de Probabilidade e Estatística!## Episódio 1Probabilidade e Estatística: Pra quê serve tudo isso? Parte 1 (com Prof. Márcia Barbian e Prof. Markus Stein)Clique aqui para ouvir o episódio 1## Episódio 2Probabilidade e Estatística: Pra quê serve tudo isso? Parte 2 (com Prof. Lisiane Selau)Clique aqui para ouvir o episódio 2## Episódio 3O Dicionário da Probabilidade e Estatística: os termos fundamentais para acompanhar o semestre &#34;</description>
+    </item>
+    
+    <item>
+      <title>Rexams</title>
+      <link>https://www.ufrgs.br/probabilidade-estatistica/rexams/rexams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ufrgs.br/probabilidade-estatistica/rexams/rexams/</guid>
+      <description>Em construção</description>
     </item>
     
   </channel>

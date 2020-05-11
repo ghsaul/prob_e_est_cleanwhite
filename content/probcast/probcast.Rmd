@@ -2,6 +2,8 @@
 title: Probcast
 ---
 
+<!--
+
 <h1 class="titulo"> 
   Podcast de Probabilidade e Estatística!
 </h1>
@@ -36,5 +38,5 @@ O Dicionário da Probabilidade e Estatística: os termos fundamentais para acomp
   Clique aqui para ouvir o episódio 3
 </a>
 
-
+-->
 

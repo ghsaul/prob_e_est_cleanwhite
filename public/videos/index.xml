@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Videos on Probabilidade e Estatística EAD</title>
-    <link>/videos/</link>
+    <link>https://www.ufrgs.br/probabilidade-estatistica/videos/</link>
     <description>Recent content in Videos on Probabilidade e Estatística EAD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/videos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.ufrgs.br/probabilidade-estatistica/videos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Vídeos</title>
-      <link>/videos/videos/</link>
+      <link>https://www.ufrgs.br/probabilidade-estatistica/videos/videos/</link>
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/videos/videos/</guid>
+      <guid>https://www.ufrgs.br/probabilidade-estatistica/videos/videos/</guid>
       <description>VideoaulasÁrea 11.1 Introdução
 
 Estatística Descritiva1.2 Distribuições de frequência
